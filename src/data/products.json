@@ -1,0 +1,29 @@
+[
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/87cf/992c/f88262f4a96bb165ac311e87f1041723?Expires=1693785600&Signature=C6KeZnYF8Zv12g6V3wdwVT8EgrMAw-t783Wncilk5Z9vXttsPCJS-aMwIAGD3ezDld23C6~Ac9Bu3OIkDlZ3rG80Uy-87bWoRGLqZoDON55mGawcSFNiG5bCSbarh7ryg59p31KfuZ0XWpY16mUqFUyZsEwMK~0GFw3ZLelumAqY3039BGyXitD4BMb0EnGJYgTMPydwAnWD1A~bsMZ-RDurmRgKnyelZJj2~qKf4EL4aaL0iNG5Pbop7X3aN-TrLoSq6kAtzxrDwCY4ynlIitQRLFQKGRucb4WUTv7Egb~iyJqWBBSzL2kgcn6LDWtsM42GEc-D4OkWyNdQjMwrFQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Trash Liner (Kantong Sampah)",
+    "description": "kantong sampah yang digunakan sebagai liner dalam garbage bin",
+    "category": "janitorial",
+    "minimum_order": "250 Kg/Ukuran",
+    "material": ["PE Original", "PE Recycle"],
+    "warna": ["bening", "hitam"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/23cd/b5f6/7bc4fe61d307698406bd3609ee33d0d8?Expires=1693785600&Signature=g9lSu5tTo19B3oNU6yxmn6vNrGUabHXPz5YasYVo7PmWcZJaaTSEfM2U1wElx9mu~6MsFcQza21rbXTIcvfNeq13K6cYr8yP~0tBGUHE24H2GEnOxhdd9M8EW~vCmmTALDRwWJfZ4j57lReu3fLGTNKOxKKLEqf2punEAjjuY1zlAQ1TdulpLiUMoUVCq4B-SLHCYcERae1GVCujBvDhXZW7zLvEF46rrhjqqC0ZauDY-~zdEnbHRz2qtWXOJfqHYJTqpg9g0eqR98F9S6zjKebhqkFlgV~MbV4PmdXabqEKG49WKfdfx9lYwVq2uD7Ix46fp4ZZr5k9jRIBiBkFIQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Kantong Kemas (Food Grade)",
+    "description": "refill Kain pel dengan bahan benang katun dan berdaya serap yang baik.",
+    "category": "janitorial",
+    "minimum_order": "3 pcs/warna",
+    "material": ["Katun"],
+    "warna": ["putih", "merah", "biru", "custom"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/23cd/b5f6/7bc4fe61d307698406bd3609ee33d0d8?Expires=1693785600&Signature=g9lSu5tTo19B3oNU6yxmn6vNrGUabHXPz5YasYVo7PmWcZJaaTSEfM2U1wElx9mu~6MsFcQza21rbXTIcvfNeq13K6cYr8yP~0tBGUHE24H2GEnOxhdd9M8EW~vCmmTALDRwWJfZ4j57lReu3fLGTNKOxKKLEqf2punEAjjuY1zlAQ1TdulpLiUMoUVCq4B-SLHCYcERae1GVCujBvDhXZW7zLvEF46rrhjqqC0ZauDY-~zdEnbHRz2qtWXOJfqHYJTqpg9g0eqR98F9S6zjKebhqkFlgV~MbV4PmdXabqEKG49WKfdfx9lYwVq2uD7Ix46fp4ZZr5k9jRIBiBkFIQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Plastik",
+    "description": "refill Kain pel dengan bahan benang katun dan berdaya serap yang baik.",
+    "category": "plastic wares",
+    "minimum_order": "3 pcs/warna",
+    "material": ["Katun"],
+    "warna": ["putih", "merah", "biru", "custom"]
+  }
+]

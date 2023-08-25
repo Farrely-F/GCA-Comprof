@@ -1,0 +1,9 @@
+.sticky-navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white; /* Adjust this to match your navbar's background color */
+  z-index: 1000; /* Adjust the z-index as needed */
+  /* Add any other styles you want for your sticky navbar here */
+}
