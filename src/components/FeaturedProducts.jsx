@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function FeaturedProducts() {
   return (
@@ -23,12 +24,12 @@ function FeaturedProducts() {
           <p>Hygiene Products</p>
         </div>
       </div>
-      <a className="group mx-auto px-5 py-2 rounded-2xl text-white bg-blue-700 transition ease-out duration-300 hover:animate-pulse" href="#">
-        See More
+      <div className="group mx-auto px-5 py-2 rounded-2xl text-white bg-blue-700 transition ease-out duration-300 hover:animate-pulse">
+        <Link to="/products">See More</Link>
         <svg className="fill-white inline ml-2 scale-0 hidden group-hover:scale-100 group-hover:inline" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16">
           <path d="M16.1716 10.9999L10.8076 5.63589L12.2218 4.22168L20 11.9999L12.2218 19.778L10.8076 18.3638L16.1716 12.9999H4V10.9999H16.1716Z"></path>
         </svg>
-      </a>
+      </div>
     </div>
   );
 }

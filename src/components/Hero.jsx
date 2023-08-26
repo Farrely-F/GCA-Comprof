@@ -15,7 +15,7 @@ function Hero() {
             Discover the art of effortless cleanliness with Griya Cipta Abadi! Your local partner for all things clean, from top-notch cleaning chemicals to essential hygiene companions like trash bags, gloves, and more. We've got your back
             for a pristine environment.
           </p>
-          <a target="__blank" href="https://wa.me/08111927302?text=I'm%20interested%20with%20your%20products!" className="text-xs lg:text-base bg-blue-600 text-white px-6 py-3 rounded-2xl">
+          <a target="__blank" href="https://wa.me/08111927302?text=Hi%20I'm%20interested%20with%20your%20products!" className="text-xs lg:text-base bg-blue-600 text-white px-6 py-3 rounded-2xl">
             Order Now!
           </a>
         </div>

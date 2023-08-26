@@ -2,6 +2,8 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 
 function Navbar() {
+  // Navbar Changed Style after Scrolled Down
+
   const [scrolled, setScrolled] = useState(false);
 
   useEffect(() => {
@@ -22,12 +24,21 @@ function Navbar() {
     };
   }, []);
 
+  // Function to autoclose drawer
+
+  const closeDrawer = () => {
+    const drawerInput = document.getElementById("my-drawer-3");
+    if (drawerInput) {
+      drawerInput.checked = false;
+    }
+  };
+
   return (
     <div className="drawer">
       <input id="my-drawer-3" type="checkbox" className="drawer-toggle" />
       <div className="drawer-content flex flex-col">
         {/* Navbar */}
-        <nav className={`w-full navbar justify-between ${scrolled ? "shadow-2xl shadow-blue-500/20 bg-white" : ""} lg:px-[90px]`}>
+        <nav className={`w-full navbar justify-between ${scrolled ? "shadow-2xl shadow-blue-500/20 bg-white" : ""} lg:px-16`}>
           <div className="">
             <a>
               <img
@@ -68,10 +79,19 @@ function Navbar() {
         <ul className="menu p-4 w-80 h-full bg-base-200">
           {/* Sidebar content here */}
           <li>
-            <a>Sidebar Item 1</a>
+            <Link to="/" onClick={closeDrawer}>
+              Home
+            </Link>
           </li>
           <li>
-            <a>Sidebar Item 2</a>
+            <Link to="/products" onClick={closeDrawer}>
+              Products
+            </Link>
+          </li>
+          <li>
+            <Link to="/about" onClick={closeDrawer}>
+              About
+            </Link>
           </li>
         </ul>
       </div>

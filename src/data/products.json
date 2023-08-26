@@ -11,19 +11,145 @@
   {
     "image": "https://s3-alpha-sig.figma.com/img/23cd/b5f6/7bc4fe61d307698406bd3609ee33d0d8?Expires=1693785600&Signature=g9lSu5tTo19B3oNU6yxmn6vNrGUabHXPz5YasYVo7PmWcZJaaTSEfM2U1wElx9mu~6MsFcQza21rbXTIcvfNeq13K6cYr8yP~0tBGUHE24H2GEnOxhdd9M8EW~vCmmTALDRwWJfZ4j57lReu3fLGTNKOxKKLEqf2punEAjjuY1zlAQ1TdulpLiUMoUVCq4B-SLHCYcERae1GVCujBvDhXZW7zLvEF46rrhjqqC0ZauDY-~zdEnbHRz2qtWXOJfqHYJTqpg9g0eqR98F9S6zjKebhqkFlgV~MbV4PmdXabqEKG49WKfdfx9lYwVq2uD7Ix46fp4ZZr5k9jRIBiBkFIQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
     "title": "Kantong Kemas (Food Grade)",
-    "description": "refill Kain pel dengan bahan benang katun dan berdaya serap yang baik.",
+    "description": "Kantong Kemas merupakan kantong kemas yang digunakan sebagai packaging produk/bahan makanan (food grade)",
     "category": "janitorial",
-    "minimum_order": "3 pcs/warna",
-    "material": ["Katun"],
+    "minimum_order": "100kg/ukuran",
+    "material": ["PE Original", "HD Original"],
+    "warna": []
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/b96e5016aa181beb656eb9b818a213942a7fb090",
+    "title": "Refill Mop Head",
+    "description": "Mop Head adalah refill Kain pel dengan bahan benang katun dan berdaya serap yang baik",
+    "category": "janitorial",
+    "minimum_order": "6 pcs/warna",
+    "material": ["Katun 350-400gr"],
     "warna": ["putih", "merah", "biru", "custom"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/23cd/b5f6/7bc4fe61d307698406bd3609ee33d0d8?Expires=1693785600&Signature=g9lSu5tTo19B3oNU6yxmn6vNrGUabHXPz5YasYVo7PmWcZJaaTSEfM2U1wElx9mu~6MsFcQza21rbXTIcvfNeq13K6cYr8yP~0tBGUHE24H2GEnOxhdd9M8EW~vCmmTALDRwWJfZ4j57lReu3fLGTNKOxKKLEqf2punEAjjuY1zlAQ1TdulpLiUMoUVCq4B-SLHCYcERae1GVCujBvDhXZW7zLvEF46rrhjqqC0ZauDY-~zdEnbHRz2qtWXOJfqHYJTqpg9g0eqR98F9S6zjKebhqkFlgV~MbV4PmdXabqEKG49WKfdfx9lYwVq2uD7Ix46fp4ZZr5k9jRIBiBkFIQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
-    "title": "Plastik",
-    "description": "refill Kain pel dengan bahan benang katun dan berdaya serap yang baik.",
-    "category": "plastic wares",
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/d95194bf27de2f6c999a2208fcd89972cf6c336a",
+    "title": "Refill Mop Head Microfiber",
+    "description": "Mop Head Microfiber adalah refill Kain pel dengan bahan benang katun dan berdaya serap yang baik.",
+    "category": "janitorial",
     "minimum_order": "3 pcs/warna",
-    "material": ["Katun"],
+    "material": ["Katun 350-400gr"],
     "warna": ["putih", "merah", "biru", "custom"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "title": "Refill Flat Mop Microfiber",
+    "description": "",
+    "category": "janitorial",
+    "minimum_order": "3 (Mix Color)",
+    "material": [],
+    "warna": ["merah", "biru", "hitam"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "title": "Lobby Duster Acrylic / Cotton",
+    "description": "Tersedia frame ukuran 60cm dan 80cm dengan handle pipa aluminum 150cm",
+    "category": "janitorial",
+    "minimum_order": "3pcs/ukuran",
+    "material": ["Cotton", "Acrylic"],
+    "warna": ["putih", "biru"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "title": "Window / Table Squeegee Head",
+    "description": "ukuran 25cm",
+    "category": "janitorial",
+    "minimum_order": "1pcs/ukuran",
+    "material": ["Pipa Allumunium"],
+    "warna": ["abu-abu"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "title": "Window / Table Squeegee Head",
+    "description": "ukuran 25cm",
+    "category": "janitorial",
+    "minimum_order": "1pcs/ukuran",
+    "material": ["Pipa Allumunium"],
+    "warna": ["abu-abu"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "title": "All Purpose Handle + Aluminum Stick",
+    "description": "Stick untuk refill mop head yang Sangat Kuat & Tahan Lama dengan panjang +/- 150cm",
+    "category": "janitorial",
+    "minimum_order": "1pcs",
+    "material": ["Allumunium"],
+    "warna": ["biru", "merah"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "title": "Mop Bucket & Signage",
+    "description": "",
+    "category": "janitorial",
+    "minimum_order": "1pcs",
+    "material": ["Plastik"],
+    "warna": ["Kuning"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "title": "Washing Cloth",
+    "description": "",
+    "category": "janitorial",
+    "minimum_order": "3pcs",
+    "material": ["cotton"],
+    "warna": []
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "title": "Sponge Cloth",
+    "description": "",
+    "category": "janitorial",
+    "minimum_order": "3pcs",
+    "material": ["spons"],
+    "warna": []
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "title": "Cleaning Cloth",
+    "description": "",
+    "category": "janitorial",
+    "minimum_order": "3pcs",
+    "material": ["cotton"],
+    "warna": []
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "title": "Window Cloth",
+    "description": "",
+    "category": "janitorial",
+    "minimum_order": "3pcs",
+    "material": [],
+    "warna": []
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "title": "Window Cloth",
+    "description": "",
+    "category": "janitorial",
+    "minimum_order": "3pcs",
+    "material": [],
+    "warna": []
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "title": "Sendok Warna & Transparant",
+    "description": "",
+    "category": "plastic wares",
+    "minimum_order": "50pcs x 40 packs (2000pcs/warna)",
+    "material": ["plastic"],
+    "warna": ["merah", "biru", "ungu", "hitam", "transparan"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "title": "Senok Putih",
+    "description": "",
+    "category": "plastic wares",
+    "minimum_order": "100pcs x 20 packs (2000pcs/warna)",
+    "material": ["plastic"],
+    "warna": ["putih"]
   }
 ]
