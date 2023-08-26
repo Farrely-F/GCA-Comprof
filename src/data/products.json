@@ -45,7 +45,7 @@
     "warna": ["merah", "biru", "hitam"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/86d9ec971fd9202b32f80d74c59882eea1eb6e49",
     "title": "Lobby Duster Acrylic / Cotton",
     "description": "Tersedia frame ukuran 60cm dan 80cm dengan handle pipa aluminum 150cm",
     "category": "janitorial",
@@ -54,7 +54,16 @@
     "warna": ["putih", "biru"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/27216bfbec3fa59d8ced0d8606024931f4ca9291",
+    "title": "Refill Lobby Duster Head",
+    "description": "Tersedia frame ukuran 60cm dan 80cm dengan handle pipa aluminum 150cm",
+    "category": "janitorial",
+    "minimum_order": "3pcs/ukuran",
+    "material": ["Cotton", "Acrylic"],
+    "warna": ["putih", "biru"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/091902fcd7303fa0664c76e79849008eb3bf4b2f",
     "title": "Window / Table Squeegee Head",
     "description": "ukuran 25cm",
     "category": "janitorial",
@@ -63,8 +72,8 @@
     "warna": ["abu-abu"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
-    "title": "Window / Table Squeegee Head",
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/89aa19b316debb8fe94c26dac9b7e2142a41c323",
+    "title": "Floor Squeegee Head",
     "description": "ukuran 25cm",
     "category": "janitorial",
     "minimum_order": "1pcs/ukuran",
@@ -72,7 +81,7 @@
     "warna": ["abu-abu"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/d93c267234a94a117987bcf10308e81719673a28",
     "title": "All Purpose Handle + Aluminum Stick",
     "description": "Stick untuk refill mop head yang Sangat Kuat & Tahan Lama dengan panjang +/- 150cm",
     "category": "janitorial",
@@ -81,7 +90,7 @@
     "warna": ["biru", "merah"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "image": "https://s3-alpha-sig.figma.com/img/113d/d1cf/b5d55206052e58def08d16ad11dd2b24?Expires=1693785600&Signature=LGYdXK8CTQXMKRrJRQh-iFKdoU6kEdWUoz23LflaAjVIWE2tvZV3DQi~yOga5S3Xe7vvZbY6sIMfKsDXQJptoRLcRr~LSN8CJ7l2-uEy3EUqGjNlZbdShuxTRNXjE3m74WhdL966v1TdGi~xxim68uOKP9b15KvYbO1XtjymbxN32sa~XmATqahSXxvco69tDNKsf9TxdSAxO091ycVyaq0NqUDES6Xthdos0VIHJJ1WolRvy9fDh7phx5wj3q18BFbXDqq2Upi04Z9QcS~P~IFti4d9A7y8XhvUerMgiZLSINtrhYaUvUn5bRtJ~UsVlVT38LUeq~ElS5Yck4G62Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
     "title": "Mop Bucket & Signage",
     "description": "",
     "category": "janitorial",
@@ -90,7 +99,7 @@
     "warna": ["Kuning"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "image": "https://s3-alpha-sig.figma.com/img/207c/c49e/11e8c2fcd5dbebbb7269d7008b1acdec?Expires=1693785600&Signature=bk6wsceiCSK6ZW2BEEZAPmz6O9PkYXFfrjcmvaaQ4FCZVF4lrIAkTiVQzjVipSR-Yvx0YFVvGRRDAhETJnvy1j8NPJvZ8bwNYEdlsvzsbFFCDba0ZPssUpbBbtl6M39vRGO7vpL2Rmnt-ckkovYwH3PRJVE7nO9x8GbRMJKCeGCqCepORmE3FmjDQsom02WBhD6Jnk7bDao8sQkTp7XdWO9RuTZivyGChcb~CGM2jlWTS8OQRM3AVFrvl7a7Xp5mmB80~e4Xdp5V9Ki25E13ZZHoy~PNmYuavD7EC8wdQil9U5ljB0ulNsFYgYNPSPtC36bHe7xCEiruRElCJN8XBg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
     "title": "Washing Cloth",
     "description": "",
     "category": "janitorial",
@@ -99,7 +108,7 @@
     "warna": []
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "image": "https://s3-alpha-sig.figma.com/img/0d2b/6ea8/ff69f2d6261811f2e3a0e809c43d1818?Expires=1693785600&Signature=k4bnNEQU4cSpoyn7AEJkn4czwbVmNW~dYcGTv-xqoUlfcS79T6ofg3bX2n28L8k5OSXOwhlR7HTbZFhuAxQU0o7WC1K5DqaFUY22jtNdrayrMLJOeeqQoYOa6oMRJegefsiBdyVvk68ktVfZLKlMJApU5VgolaJKizd~Xiy4GOGufNmhxgZg~-V2bGvNwWvZCeRLWiji7ZQEY0ziYXPqX5uZ38SEphOINchdcRbn96vbpLezjfEYXjykixIvuSeYZI3-9j1XojGEh44kY3BskSnjap9EBNj~0xZefpvd3RjyxqgyS39PSJ~S3kfkrLwST~GWIAemNlWO4q2ur3fm5g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
     "title": "Sponge Cloth",
     "description": "",
     "category": "janitorial",
@@ -108,16 +117,16 @@
     "warna": []
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "image": "https://s3-alpha-sig.figma.com/img/11b5/34a3/983d307e83d6de13a05aa1d75306389a?Expires=1693785600&Signature=knqinmBkcWgdJajJjEJkqPPjLA~8AQf3I~SG3lUld2xV3tE-ok6B8fNUA~Q9LkPM1NVfkDi4iKJqll0HklvatoV5DO75N4CojUpJDU5ZOz6fsAmVqsXDkLmR~~m4bBoAQ-q~e0qLOwskhjvD3pTB1it8boVwPVlIbD9VSqpIZFs7s7HnpAExQK4dJCGBG3yX8~m53Oh8h9hntL3YXoSFOmJGXUWkfyMC6-vlfpB7dIDLFRAqrPFNICWVQn8I5g20fkYlxp7I8uALi8lzP5uy7KxLoFCPTXC031kMd3Dfjdnysczhs7tdpE65LHpESz03Dhzea8MzCT2eob73~DJxMg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
     "title": "Cleaning Cloth",
     "description": "",
     "category": "janitorial",
     "minimum_order": "3pcs",
-    "material": ["cotton"],
+    "material": [],
     "warna": []
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "image": "https://s3-alpha-sig.figma.com/img/fe0a/9e92/cc17bcc128a1fe0070625d50c28afe3f?Expires=1693785600&Signature=MBFlXNDfNK0a9O41Pfgb9LXBXGuqdAc8ZRzRaw7eQMxdwJwpesftMBBAK-AWh25eMEc608UdaOjRsGOY0LmyALw9qCQTBS0W1gr~6IUk6Krc0u-fsLKJbksaUQ6Y9Qojrf-uIg8Eps3vZfRlmb9R3oqwbMVGVvkbM~OT4OtweT0V9fvAExS66n65MSYXfFi1x~e~B--ZsWQbpeWOdA2z59iaG6V9Bxmq37GDofBHNReknlfFZimbT5jDOyy~T2eWa8481BaFAKnr3R2-02AvkE7nehNOFZZyWyuHSbZQQX612xQCHynbIAAfnLsmByNdJGuan4Gi4Anrxasjc2wRjw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
     "title": "Window Cloth",
     "description": "",
     "category": "janitorial",
@@ -126,16 +135,7 @@
     "warna": []
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
-    "title": "Window Cloth",
-    "description": "",
-    "category": "janitorial",
-    "minimum_order": "3pcs",
-    "material": [],
-    "warna": []
-  },
-  {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/b3dd6eddcf4c3a8fd2182f059b83d321c6a2eded",
     "title": "Sendok Warna & Transparant",
     "description": "",
     "category": "plastic wares",
@@ -144,12 +144,39 @@
     "warna": ["merah", "biru", "ungu", "hitam", "transparan"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
-    "title": "Senok Putih",
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/ad617225e7d74d784092d513aa55adbdbe54e7d6",
+    "title": "Sendok Putih Plastik",
     "description": "",
     "category": "plastic wares",
     "minimum_order": "100pcs x 20 packs (2000pcs/warna)",
     "material": ["plastic"],
     "warna": ["putih"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/7e2e/30ef/0cfe997a3a9f8a4473cc66a248c398fe?Expires=1693785600&Signature=ME-TulypPO1-J1ZpFiq4ivQBPoLgI8y-wSTn8QixNupsnDjg2lzWDp2VmJlWB32hGIXwx1OXvI-sZsz4uNg~0Iexbttid7mqTXVeSMPQ7keTty0Fg1OAXDrBBgsO0Udp-dX5UmTtuNlbiUvZ~y4l16iuyFnNBtT-Thb7IQvr5PtcPp05sKODTyrUxfdUVwxLkKd89icFdGpzZCZReAadnxaoHGmGeuWy36IEBBKSlNJcaWLOjUTEXkE-C0o8lbmRpp2ujeiKmEyGoeVSyvy6KNCGv0tHrnUjfu9ADfpyg-jsVcvIvvmCfE5DARMxf2QzpNEHgDfgyCZWdNHlmf1GHQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Sendok Logo",
+    "description": "",
+    "category": "plastic wares",
+    "minimum_order": "50pcs x 38 packs (1900pcs/warna)",
+    "material": ["plastic"],
+    "warna": ["Merah", "Oranye", "Kuning", "Hijau", "Biru", "Ungu", "Putih"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/7e2e/30ef/0cfe997a3a9f8a4473cc66a248c398fe?Expires=1693785600&Signature=ME-TulypPO1-J1ZpFiq4ivQBPoLgI8y-wSTn8QixNupsnDjg2lzWDp2VmJlWB32hGIXwx1OXvI-sZsz4uNg~0Iexbttid7mqTXVeSMPQ7keTty0Fg1OAXDrBBgsO0Udp-dX5UmTtuNlbiUvZ~y4l16iuyFnNBtT-Thb7IQvr5PtcPp05sKODTyrUxfdUVwxLkKd89icFdGpzZCZReAadnxaoHGmGeuWy36IEBBKSlNJcaWLOjUTEXkE-C0o8lbmRpp2ujeiKmEyGoeVSyvy6KNCGv0tHrnUjfu9ADfpyg-jsVcvIvvmCfE5DARMxf2QzpNEHgDfgyCZWdNHlmf1GHQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Sendok Logo",
+    "description": "",
+    "category": "plastic wares",
+    "minimum_order": "50pcs x 38 packs (1900pcs/warna)",
+    "material": ["plastic"],
+    "warna": ["Merah", "Oranye", "Kuning", "Hijau", "Biru", "Ungu", "Putih"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/7e2e/30ef/0cfe997a3a9f8a4473cc66a248c398fe?Expires=1693785600&Signature=ME-TulypPO1-J1ZpFiq4ivQBPoLgI8y-wSTn8QixNupsnDjg2lzWDp2VmJlWB32hGIXwx1OXvI-sZsz4uNg~0Iexbttid7mqTXVeSMPQ7keTty0Fg1OAXDrBBgsO0Udp-dX5UmTtuNlbiUvZ~y4l16iuyFnNBtT-Thb7IQvr5PtcPp05sKODTyrUxfdUVwxLkKd89icFdGpzZCZReAadnxaoHGmGeuWy36IEBBKSlNJcaWLOjUTEXkE-C0o8lbmRpp2ujeiKmEyGoeVSyvy6KNCGv0tHrnUjfu9ADfpyg-jsVcvIvvmCfE5DARMxf2QzpNEHgDfgyCZWdNHlmf1GHQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Sendok Logo",
+    "description": "",
+    "category": "plastic wares",
+    "minimum_order": "50pcs x 38 packs (1900pcs/warna)",
+    "material": ["plastic"],
+    "warna": ["Merah", "Oranye", "Kuning", "Hijau", "Biru", "Ungu", "Putih"]
   }
 ]
