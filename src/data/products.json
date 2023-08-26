@@ -6,7 +6,7 @@
     "category": "janitorial",
     "minimum_order": "250 Kg/Ukuran",
     "material": ["PE Original", "PE Recycle"],
-    "warna": ["bening", "hitam"]
+    "warna": ["Bening", "Hitam"]
   },
   {
     "image": "https://s3-alpha-sig.figma.com/img/23cd/b5f6/7bc4fe61d307698406bd3609ee33d0d8?Expires=1693785600&Signature=g9lSu5tTo19B3oNU6yxmn6vNrGUabHXPz5YasYVo7PmWcZJaaTSEfM2U1wElx9mu~6MsFcQza21rbXTIcvfNeq13K6cYr8yP~0tBGUHE24H2GEnOxhdd9M8EW~vCmmTALDRwWJfZ4j57lReu3fLGTNKOxKKLEqf2punEAjjuY1zlAQ1TdulpLiUMoUVCq4B-SLHCYcERae1GVCujBvDhXZW7zLvEF46rrhjqqC0ZauDY-~zdEnbHRz2qtWXOJfqHYJTqpg9g0eqR98F9S6zjKebhqkFlgV~MbV4PmdXabqEKG49WKfdfx9lYwVq2uD7Ix46fp4ZZr5k9jRIBiBkFIQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
@@ -24,7 +24,7 @@
     "category": "janitorial",
     "minimum_order": "6 pcs/warna",
     "material": ["Katun 350-400gr"],
-    "warna": ["putih", "merah", "biru", "custom"]
+    "warna": ["Putih", "Merah", "Biru", "Custom"]
   },
   {
     "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/d95194bf27de2f6c999a2208fcd89972cf6c336a",
@@ -33,7 +33,7 @@
     "category": "janitorial",
     "minimum_order": "3 pcs/warna",
     "material": ["Katun 350-400gr"],
-    "warna": ["putih", "merah", "biru", "custom"]
+    "warna": ["Putih", "Merah", "Biru", "Custom"]
   },
   {
     "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
@@ -42,7 +42,7 @@
     "category": "janitorial",
     "minimum_order": "3 (Mix Color)",
     "material": [],
-    "warna": ["merah", "biru", "hitam"]
+    "warna": ["Merah", "Biru", "Hitam"]
   },
   {
     "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/86d9ec971fd9202b32f80d74c59882eea1eb6e49",
@@ -51,7 +51,7 @@
     "category": "janitorial",
     "minimum_order": "3pcs/ukuran",
     "material": ["Cotton", "Acrylic"],
-    "warna": ["putih", "biru"]
+    "warna": ["Putih", "Biru"]
   },
   {
     "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/27216bfbec3fa59d8ced0d8606024931f4ca9291",
@@ -60,7 +60,7 @@
     "category": "janitorial",
     "minimum_order": "3pcs/ukuran",
     "material": ["Cotton", "Acrylic"],
-    "warna": ["putih", "biru"]
+    "warna": ["Putih", "Biru"]
   },
   {
     "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/091902fcd7303fa0664c76e79849008eb3bf4b2f",
@@ -69,7 +69,7 @@
     "category": "janitorial",
     "minimum_order": "1pcs/ukuran",
     "material": ["Pipa Allumunium"],
-    "warna": ["abu-abu"]
+    "warna": ["Abu-abu"]
   },
   {
     "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/89aa19b316debb8fe94c26dac9b7e2142a41c323",
@@ -78,7 +78,7 @@
     "category": "janitorial",
     "minimum_order": "1pcs/ukuran",
     "material": ["Pipa Allumunium"],
-    "warna": ["abu-abu"]
+    "warna": ["Abu-abu"]
   },
   {
     "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/d93c267234a94a117987bcf10308e81719673a28",
@@ -87,7 +87,7 @@
     "category": "janitorial",
     "minimum_order": "1pcs",
     "material": ["Allumunium"],
-    "warna": ["biru", "merah"]
+    "warna": ["Biru", "Merah"]
   },
   {
     "image": "https://s3-alpha-sig.figma.com/img/113d/d1cf/b5d55206052e58def08d16ad11dd2b24?Expires=1693785600&Signature=LGYdXK8CTQXMKRrJRQh-iFKdoU6kEdWUoz23LflaAjVIWE2tvZV3DQi~yOga5S3Xe7vvZbY6sIMfKsDXQJptoRLcRr~LSN8CJ7l2-uEy3EUqGjNlZbdShuxTRNXjE3m74WhdL966v1TdGi~xxim68uOKP9b15KvYbO1XtjymbxN32sa~XmATqahSXxvco69tDNKsf9TxdSAxO091ycVyaq0NqUDES6Xthdos0VIHJJ1WolRvy9fDh7phx5wj3q18BFbXDqq2Upi04Z9QcS~P~IFti4d9A7y8XhvUerMgiZLSINtrhYaUvUn5bRtJ~UsVlVT38LUeq~ElS5Yck4G62Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
@@ -141,7 +141,7 @@
     "category": "plastic wares",
     "minimum_order": "50pcs x 40 packs (2000pcs/warna)",
     "material": ["plastic"],
-    "warna": ["merah", "biru", "ungu", "hitam", "transparan"]
+    "warna": ["Merah", "Biru", "Ungu", "Hitam", "Transparan"]
   },
   {
     "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/ad617225e7d74d784092d513aa55adbdbe54e7d6",
@@ -150,7 +150,7 @@
     "category": "plastic wares",
     "minimum_order": "100pcs x 20 packs (2000pcs/warna)",
     "material": ["plastic"],
-    "warna": ["putih"]
+    "warna": ["Putih"]
   },
   {
     "image": "https://s3-alpha-sig.figma.com/img/7e2e/30ef/0cfe997a3a9f8a4473cc66a248c398fe?Expires=1693785600&Signature=ME-TulypPO1-J1ZpFiq4ivQBPoLgI8y-wSTn8QixNupsnDjg2lzWDp2VmJlWB32hGIXwx1OXvI-sZsz4uNg~0Iexbttid7mqTXVeSMPQ7keTty0Fg1OAXDrBBgsO0Udp-dX5UmTtuNlbiUvZ~y4l16iuyFnNBtT-Thb7IQvr5PtcPp05sKODTyrUxfdUVwxLkKd89icFdGpzZCZReAadnxaoHGmGeuWy36IEBBKSlNJcaWLOjUTEXkE-C0o8lbmRpp2ujeiKmEyGoeVSyvy6KNCGv0tHrnUjfu9ADfpyg-jsVcvIvvmCfE5DARMxf2QzpNEHgDfgyCZWdNHlmf1GHQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
@@ -162,21 +162,228 @@
     "warna": ["Merah", "Oranye", "Kuning", "Hijau", "Biru", "Ungu", "Putih"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/7e2e/30ef/0cfe997a3a9f8a4473cc66a248c398fe?Expires=1693785600&Signature=ME-TulypPO1-J1ZpFiq4ivQBPoLgI8y-wSTn8QixNupsnDjg2lzWDp2VmJlWB32hGIXwx1OXvI-sZsz4uNg~0Iexbttid7mqTXVeSMPQ7keTty0Fg1OAXDrBBgsO0Udp-dX5UmTtuNlbiUvZ~y4l16iuyFnNBtT-Thb7IQvr5PtcPp05sKODTyrUxfdUVwxLkKd89icFdGpzZCZReAadnxaoHGmGeuWy36IEBBKSlNJcaWLOjUTEXkE-C0o8lbmRpp2ujeiKmEyGoeVSyvy6KNCGv0tHrnUjfu9ADfpyg-jsVcvIvvmCfE5DARMxf2QzpNEHgDfgyCZWdNHlmf1GHQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
-    "title": "Sendok Logo",
+    "image": "https://s3-alpha-sig.figma.com/img/1243/2d0e/0212afaa61623678171cd27d501a40b3?Expires=1693785600&Signature=TcnfzdaGAMm9sdJHSiiHxHjYzP0~VV6YJevSsX4tQE7DNhE9vO21FLOjMiGJFBTQb3PxjtfazVHTgNW~No-yLviVvSvwla1KSFqIDKZ1LCifh6C5UFd8cvutGRcDFrhG-AM-aaw-gMkPhXvg4f-fGbtB1Sa87l8qalV2UTR2MT7z1yesv6rZeA984Rgr2Ph6Q4qVwFYmtqk-ljCWifeuz7IWYbkxKkIo9zkxsKvxFUUUt4vUiHZDCkmwxMihXG61jZmtzDptKPFJPtCrrDXA5HxqaADT984VqG9yAilvsze8HOCixHu-buIj~wS1e8mUhcjiIXLAobLwi~cWJlEN0w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Garpu Plastik (Warna)",
     "description": "",
     "category": "plastic wares",
-    "minimum_order": "50pcs x 38 packs (1900pcs/warna)",
+    "minimum_order": "50pcs x 40 packs (2000pcs/warna)",
     "material": ["plastic"],
-    "warna": ["Merah", "Oranye", "Kuning", "Hijau", "Biru", "Ungu", "Putih"]
+    "warna": ["Merah", "Oranye", "Kuning", "Hijau", "Biru", "Ungu", "Hitam"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/7e2e/30ef/0cfe997a3a9f8a4473cc66a248c398fe?Expires=1693785600&Signature=ME-TulypPO1-J1ZpFiq4ivQBPoLgI8y-wSTn8QixNupsnDjg2lzWDp2VmJlWB32hGIXwx1OXvI-sZsz4uNg~0Iexbttid7mqTXVeSMPQ7keTty0Fg1OAXDrBBgsO0Udp-dX5UmTtuNlbiUvZ~y4l16iuyFnNBtT-Thb7IQvr5PtcPp05sKODTyrUxfdUVwxLkKd89icFdGpzZCZReAadnxaoHGmGeuWy36IEBBKSlNJcaWLOjUTEXkE-C0o8lbmRpp2ujeiKmEyGoeVSyvy6KNCGv0tHrnUjfu9ADfpyg-jsVcvIvvmCfE5DARMxf2QzpNEHgDfgyCZWdNHlmf1GHQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
-    "title": "Sendok Logo",
-    "description": "",
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/e65497f9518564a5083a8770f3d2d09279be62b2",
+    "title": "Garpu Plastik Transparan & Putih",
+    "description": "Warna Avail: Putih & Transparant",
     "category": "plastic wares",
-    "minimum_order": "50pcs x 38 packs (1900pcs/warna)",
+    "minimum_order": "100pcs x 20 packs (2000pcs/warna)",
     "material": ["plastic"],
-    "warna": ["Merah", "Oranye", "Kuning", "Hijau", "Biru", "Ungu", "Putih"]
+    "warna": ["Putih", "Transparan"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/2b3f/aa92/375e03d16571a01181c496aa7a39fed2?Expires=1693785600&Signature=hk9LrjfNmPWeWM9Dq-1656Y80ckH07KWrbzdcel1a4iEvawRLVfKgtFbj6s2CDk03~A87gEKw-Ya8~pykmW4otj4RuE6nLBD9DJcqwTIzOmEXj24eWihGSiNRI7ez4RbyuDWJuSraG~Vr3dlBHS0Ux8mmSZCRuuqgk1Fu9TNjPj88X4TOLH0KPvDElR7SWzFUzF6UGsqIh0~P7UzuxFt3-Nq6CC1wecwrhNj9B~IovhEyo5QlDy~ynVI5K1EKc~onxCTNivmhWGAHLuJmSrMu8Wdy8ZHWy4TiBXZKmNf5wTZ3EKqJMJNyOY~w7UEItYvtiTJUXykK7Fyrpt7s05uIA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Pisau Plastik",
+    "description": "Warna Avail: Putih & Transparant",
+    "category": "plastic wares",
+    "minimum_order": "100pcs x 20 packs (2000pcs/warna)",
+    "material": ["plastic"],
+    "warna": ["Putih", "Transparan"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/dd1aa9c01e2b3088667409fbbb36a239dee89d1f",
+    "title": "Sendok Teh Plastik",
+    "description": "Warna Avail: Putih & Transparant",
+    "category": "plastic wares",
+    "minimum_order": "100pcs x 20 packs (2000pcs/warna)",
+    "material": ["plastic"],
+    "warna": ["Merah", "Oranye", "Kuning", "Hijau", "Biru", "Ungu", "Putih", "Bening/Transparan"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/9790/6e2a/aa2f3d855ee5876c680e0240cc680cc0?Expires=1693785600&Signature=IH~kVd~-4Yafum-DlrnyRHw71D0Vzhn927EUV8wdwoBtqpsbcyZdEF4X9zARytFZymksgBkuOl0f0-gTjce-yk39AePLsh6PG98Y5qAaHLdoxMWQXgIaKGUiK7NH80QzbqreuIKazTix1d~1C8pH~rTXxg9-YeXpsdjgCYzfucKKaazYi-m0esbWFaXFNtri3DPFZ~oJAVFS6rr73j-RFHKVyHjdudNBo9T68Z80B9k5~AdmiGSbfFKRqoGILJS78vCTFD15IXV9Ia9s10Hi-dLt3eyNV9jzidcUA79hqrNSFkyyT~N0WzQB6JJG-eTvvOv0bd6D2Pvp7-N~a18SBw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Gelas Plastik",
+    "description": "Gelas plastik dengan 2 versi: polos dan motif",
+    "category": "plastic wares",
+    "minimum_order": "6 x 36 packs (216pcs/warna & Jenis)",
+    "material": ["plastic"],
+    "warna": ["Merah", "Hijau", "Biru", "Bening/Transparan"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/418f9d05f0a82f239632a19e9ca31e776b2236b2",
+    "title": "Sendok Sup Plastik",
+    "description": "Terdapat 2 versi: Economies & Standard",
+    "category": "plastic wares",
+    "minimum_order": "72pcs x 40 packs (2880/warna & jenis)",
+    "material": ["Economies", "Standard"],
+    "warna": ["Putih & Transparan"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/f18c/a351/024efeac7ba8f7792a2bb81a2fa294a3?Expires=1693785600&Signature=Z3WysRZm6CO7ul5eJjIcbB2mq8cBtu5yJ3QGHWT~o6qItaSD59G7cev7xAmbCUJgDrffqlM1dqhjQXUv9Au8zDMZA2c8ruVTY4TYJefpv~38e9l327xiulV7GiaplcHOn4EMt6vS6B4VvxZ4DtvkVe70ViF3LJax0LZexLDavlKPsKZYDE7nMCquuBNyElZq-ERGLuOnndK2iupRFTwO4y6-eP93gzumUmIFrbBWO4zmMnQwiT4q-BsI9QVcqBvohyJQDfDx-tbeI68rjn-KeWf1zCcljKrT47qq-8k4OmdeqhW9iY-y~yeLXmdzVyiOTPvsX2F0yBgSuuDEQyHctg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Set Takeaway",
+    "description": "Set terdapat dalam plastik transparan tersegel. Berisikan: sendok plastik, garpu plastik, tusuk gigi, & tissue napkin (bisa custom set)",
+    "category": "plastic wares",
+    "minimum_order": "1000pcs/warna & jenis)",
+    "material": ["plastic"],
+    "warna": ["Hitam"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/59f1/c29e/59ba51c40ccea8227d7f7508cb58d863?Expires=1693785600&Signature=NTnWDp3B~TAWd3gJ2ckcNxWEC~Ao6MzQEOn~vrnJJQB4gZYoxCNAC-CCOjCusWgqPcHIwczo4uk3lCrQvFBqK-RSPTjXxv3sn4qrNf-7897c9CIGKuETLnbU8Seb0axOKDXxRI1uDAhZWaYJ7FrryLht-TXGTEsa56fTIXIwtI7TRcxZ0Q8O8U3rZ6m39en3n-PzC1lrXTmauaYYH1mxQ6aN8qWDrHy3c4l5pzq15BuSONrucnX1XfvehAAsLfipG~l1lTk1mexXhKfTh5V0eqoteTMZ~cM7rtMPy~lZz79gugv7bGiACGRrR1wPhfn3zGiXQ5DLDnwv88nNfHalUA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Sauce/Tomato Dish",
+    "description": "Tersedia polos dan emboss logo",
+    "category": "plastic wares",
+    "minimum_order": "100000pcs/warna & jenis",
+    "material": ["polos", "emboss"],
+    "warna": ["Transparan"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/e07f/bcce/089510bf0072406fd77dd16b97817d68?Expires=1693785600&Signature=plMAZGgsL0Ma2ppUodwnvFuV9sJeErMxDFPFhXrwF~L~rPW0YZIxMc8w570PCvN-HN~2-~6SRvPy1JP2cYHDjf3kfqI9Y8rqdcEFju6aTUTQTKp3Cc8ZzXxj2JvCExcunScZrlMnGfn3lpu9x2LQ5T9WlAWjx-Lw210NO8H4D~98OAgwcXFeI5wl9vp~Q-LVQ859Tx3YddgvIqtxvJPACz2GKYN0daLjWthztlll97lPCKh3j0U7fZy~POjxd04RUlkDuD6-At~LdmKmsogEqI~G3Qi21oPp5Bvfw96BYuRgzMyI9hDHHjzt27eCQBQCK7ZoZHY6TvdK550hpJDLzA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Kantong Belanja Plastik",
+    "description": "Kantong belanja yang terbuat dari HD dan oxium,dengan kualitas yang baik dan printing yang terbaik.",
+    "category": "packaging",
+    "minimum_order": "polos: 100kg/ukuran atau warna Logo & print: 500kg/ukuran atau warna",
+    "material": ["Oxium", "PE + logo"],
+    "warna": ["Putih", "Berwarna"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/1b053fcc0509adf66249fc7635757b6b3908e9cf",
+    "title": "Transparent Plastic Mask",
+    "description": "Masker transparan",
+    "category": "hygiene product",
+    "minimum_order": "10 pcs/box",
+    "material": ["plastic"],
+    "warna": ["Putih & Transparan"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/a88926bbefe412ce188e8de6af6d67dec54c6c41",
+    "title": "Hair Net Cap for Men & Women",
+    "description": "Masker transparan",
+    "category": "hygiene product",
+    "minimum_order": "10 pcs/box",
+    "material": ["plastic"],
+    "warna": ["Putih"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/06ad/8c9a/55d3857da79487621a66cf6f0705b0ad?Expires=1693785600&Signature=mbsrjy4l4nVyUBOlkKyfSSyojnJyhHOve2ZH5kOF48NGUgrseT1wzcfp-MCX3axW0Ww5OREUh9v61v0Y~sT0kQZPQBAnIC1PRKgvcMzJzQHVyPbxMgQhMCjZ2PrG7H4ug0H~6Kugqis8YeATVs6nZDbBYaJiWoKaWiOK-khxZCnmx94309Cf7qV2vxxa57tt2eIOpIjc8ckpsA15orucI2-554DcRHmRT~x6fEj430O0s6-w-5y7XDQJwfttDDt5qcAW1GcTf5wgg-V6IQj5l4PtUcZso9XDxM6Z4TuAcnxZeMMK5NHAmY1~CNmYo07VUJXjcCjUqUtbLXb0Sl7H5w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Disposable Mob Cap",
+    "description": "Masker transparan",
+    "category": "hygiene product",
+    "minimum_order": "50 pcs/box",
+    "material": ["plastic"],
+    "warna": ["Biru", "Hijau", "Putih", "Pink"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/bb2d943656f05e30c6731a465d672e54d5b3a4cd",
+    "title": "Disposable Face Mask(Ear Loop)",
+    "description": "Masker sekali pakai",
+    "category": "hygiene product",
+    "minimum_order": "50 pcs/box",
+    "material": [],
+    "warna": ["Biru", "Hijau", "Putih", "Pink"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/1bc63b65d78afe984a8896a736c725223628a89b",
+    "title": "Shoes Cover",
+    "description": "Pelindung untuk sepatu",
+    "category": "hygiene product",
+    "minimum_order": "1000 pcs/Carton",
+    "material": [],
+    "warna": ["Biru", "Hijau", "Putih"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/a63afae637895485901308b1dce30540c980eafd",
+    "title": "Butcher's Apron",
+    "description": "Waterproof / water resistant",
+    "category": "hygiene product",
+    "minimum_order": "3 pcs/box",
+    "material": ["Vynl Berserat"],
+    "warna": ["Biru", "Hijau", "Putih"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/eeefd524a8aab189887fd720e020aea4d54c7dcc",
+    "title": "Vinyl Disposable Gloves",
+    "description": "Ada 2 versi: Powdered / Powder Free",
+    "category": "hygiene product",
+    "minimum_order": "10 box/case (10 x 100pcs)",
+    "material": ["Vynl"],
+    "warna": ["Biru", "Bening/Transparan", "Hitam"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/2f89e609ab41c3a7dff6aa2d3c94edf9671d8096",
+    "title": "Rubber Gloves",
+    "description": "Sarung tangan yang terbuat dari karet",
+    "category": "hygiene product",
+    "minimum_order": "12pcs/box)",
+    "material": ["Karet"],
+    "warna": ["Biru", "Bening/Transparan", "Hitam"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/eeefd524a8aab189887fd720e020aea4d54c7dcc",
+    "title": "Plastic Disposable Gloves",
+    "description": "Sarung tangan plastik sekali pakai",
+    "category": "hygiene product",
+    "minimum_order": "1500pcs/box (15pack ada 100pcs per pack)",
+    "material": ["HD Original"],
+    "warna": ["Biru", "Bening/Transparan"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/3e3b/621e/2eaa864fb5cb897bc6e6c43474a59683?Expires=1693785600&Signature=h2xZDkRvUwxqLyIscQQFZ1--wDIKhxzuTn8sDefYjkL5Cksa6gcOuviRUkH-ygzlRwUMjp006AjKlEMtaHqyffT77rIGCs-q7nsCLgINFZv49KSMg9x1r5steia-IImFmQ7eEZQWTafiY66eEjMYfIhUt03i94L3LOK~Of2n3GR~DRP1lrEqGKjaB~MVGaxtZr9bpyOeLXMQvSJV4iOEeZgfa9x-lYfcSof~SDi-j1p-Y35iHV9Zwfl6xrmC-FrwD89j8r-7HYlIVS5XmfIJyiSWpSrsN5PH18cBWWcgx9OoKAIdgleXpR5qmaKLt-t4xQ~Ob2DaUOTK9o1JjwSY8w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Plastic Disposable Gloves Hanger",
+    "description": "Tempat penyimpanan untuk disposable plastic gloves",
+    "category": "hygiene product",
+    "minimum_order": "1pcs",
+    "material": ["Stainless Steel"],
+    "warna": ["Abu-abu"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/830e/d797/1562d80a02ec7061fb96fd89ce673ff7?Expires=1693785600&Signature=mCE8w3LQSzeclgGwVjvnaduvMVlkjJSJ3K1FTOF3EuT7hbuHl2uCyiVbJAGF2GFmaHvmBnfhc2YBKvPhehXcEEYhKVWbs~DEUok5NhJgoOYiTs50AV4C0PPh2iwwEFQKzwpN5jJ4pmWyOlAXflg744eCeC-vWpuhWtJQPTo8qe9FZckT7BGVgKjiwzr0eDInRoHQIzge8rwmREMUYrXXaXcpFMQp23GpHfw3c8XKdGgwX8mkF6UyQm7bwPfXrVAQb5uSMOaJhawZ8XHUVWnhOvn6NyJfW2hMQL-CPJZ9UhuBfo~48YcsY7ZXDPV1sBjHlwnD-iwpwA2oTW4HzDfpkw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Plastic Disposable Gloves",
+    "description": "Sarung tangan plastik sekali pakai",
+    "category": "hygiene product",
+    "minimum_order": "10 kotak",
+    "material": ["Plastik"],
+    "warna": ["Bening/Transparan"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/839b/4533/c82606498b0a0e158402c25eb56fc1ed?Expires=1693785600&Signature=RTAwswVeGt~VN-xzsx67FeycglmjFcenoHr6rlfptw-DrN5X7O7~wmqo2uuPd3zjOnGlZfTpvmGPieCtxlzZy4pdrhn0R5ncT-Avc30Lx5bcoqeH1DB-9YQABpIGOArqqBN81jnPfgaI4vWhbqB4RhsANXbd1cLk0Z~fXgMDoR~YAnnuH1luU6wAZD~OQqkFuTduSDHoETF5JQA8XiejPtejTVrb0TZgJNGusOU3QBgsI3pnrRZoqOn8Ew4pBio0Z7waqsIK8VZPzpD5kB42WUlMCSfn3WacGDeII34WEpJmgtB742hZz3kPiH55uKWcVqa9IVn6ILR6yl30aySktQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Cloth Towel",
+    "description": "Lap kain untuk keperluan dapur",
+    "category": "janitorial",
+    "minimum_order": "100pcs/ukuran/warna",
+    "material": ["Plastik"],
+    "warna": ["Bening/Transparan"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/8415/ae53/0bb5d69800b824a15459746441756827?Expires=1693785600&Signature=SebsNWPNDE~Alahy4~dzVtkald~Ld0YydYsBvWPzVpXYwEZCUIU~Q4nRAZ9uc9QrbUIkVHAZlvH-ku~FyjYbS0-S0gXD-NkANBknt5ndbglqVlFdXe-4JitSwd-9oymx1WLtODChxMY89N-J-LVVhmPLUYjm-5JJjSTjrMk9Hq-lPkGmz7WjQVKY8egKj6DXfLRYx-E4uA-YhxgEoxvGDZVQFoYHc1hd7zSDzVkOG-R6gujvlMQtMwBxZ1yPh5-ZspwLKjt67hxnml6gKAknisWJeQrlbAexmC0ZP5eNVhOxdLoNGNYmp3XTBR3ATEOiwaNq9mudWfDAsIM1gtlLHQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Grease Proof Paper",
+    "description": "Kertas anti lengket untuk penyajian makanan",
+    "category": "plastic wares",
+    "minimum_order": "2 pack x 500lbr",
+    "material": ["Kertas Plastik"],
+    "warna": ["Putih"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/843c/3a24/b458221abe28731bb318b636e2563a6c?Expires=1693785600&Signature=PUng7Es~DaRQPfXxsNxUlIqYMA1EFEZv~aFCH3KD8tdz-SL32-PEaRs4SbfZ1GpARU~3VhygjaiXzZmIAvKIaw2sqiZGdNOy2DGoiVEMXC3weMf~pNLJcHLFbuIEhGYQrqn58p01brujyO9g5v4KznsbkP6MyH1vvKec5ykDnFHMQtksjPErAut6Ddke3Z7cKsbVCGZmMGXkAdpcjhrzQ~pr7Azu8ZWmucYZmdu3SnwC-nfl27xvSysEeXAdvfFXe9KZPLKQLtB2hVExpyfPpGH1SZqjkdEJn~MUiHTEk3y20PPbWR2HDWXluIfbFjtlnYMcz3t0mtP7psoGKskuvg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Rak Telur Plastik",
+    "description": "Rak penyimpanan telur dari plastik",
+    "category": "plastic wares",
+    "minimum_order": "2 pack x 500lbr",
+    "material": ["Kertas Plastik"],
+    "warna": ["Putih"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/6a557a21db66370b57d40a351a92ae55988ea9fa",
+    "title": "Skewer/Tusuk Sate",
+    "description": "Media sate dengan bahan berkualitas",
+    "category": "packaging",
+    "minimum_order": "1000pcs/ukuran",
+    "material": ["Bamboo"],
+    "warna": ["Kuning"]
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/ada7563c3705a3ae86654c9d465163a382fdca8c",
+    "title": "Food Label/Label Makanan",
+    "description": "Label penanda untuk makanan",
+    "category": "packaging",
+    "minimum_order": "1000pcs/ukuran/design",
+    "material": ["plastic"],
+    "warna": ["Variasi"]
   }
 ]

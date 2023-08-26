@@ -14,9 +14,10 @@ function shortenString(str, maxLength) {
 }
 
 function Products() {
-  const [selectedCategory, setSelectedCategory] = useState("janitorial");
+  const [selectedCategory, setSelectedCategory] = useState("all");
   const [selectedProduct, setSelectedProduct] = useState(null);
   const [currentPage, setCurrentPage] = useState(1);
+  const [searchQuery, setSearchQuery] = useState(""); // Step 1: Add search query state
   const productsPerPage = 6;
 
   const handleCategorySelect = (category) => {
@@ -27,12 +28,15 @@ function Products() {
 
   const filteredProducts = selectedCategory === "all" ? products : products.filter((product) => product.category === selectedCategory);
 
-  const totalProducts = filteredProducts.length;
+  // Step 3: Add a filter based on the search query
+  const filteredBySearch = filteredProducts.filter((product) => product.title.toLowerCase().includes(searchQuery.toLowerCase()));
+
+  const totalProducts = filteredBySearch.length;
   const totalPages = Math.ceil(totalProducts / productsPerPage);
 
   const indexOfLastProduct = currentPage * productsPerPage;
   const indexOfFirstProduct = indexOfLastProduct - productsPerPage;
-  const currentProducts = filteredProducts.slice(indexOfFirstProduct, indexOfLastProduct);
+  const currentProducts = filteredBySearch.slice(indexOfFirstProduct, indexOfLastProduct);
 
   const nextPage = () => {
     if (currentProducts.length === productsPerPage && currentPage < totalPages) {
@@ -46,6 +50,15 @@ function Products() {
     }
   };
 
+  const handleSearchInputChange = (event) => {
+    setSearchQuery(event.target.value); // Step 2: Update search query state
+  };
+
+  const handleSearchSubmit = (event) => {
+    event.preventDefault();
+    // You can perform additional search-related actions here if needed
+  };
+
   return (
     <div className="flex flex-col items-center px-5 lg:px-16 py-20">
       <h2 className="text-4xl font-bold mb-3">Our Products</h2>
@@ -53,6 +66,9 @@ function Products() {
 
       {/* Category Section */}
       <div className="flex lg:justify-center w-full overflow-x-scroll lg:overflow-x-auto gap-x-5 mb-8 py-2">
+        <button onClick={() => handleCategorySelect("all")} className={`min-w-[150px] py-2 px-5 outline outline-1 outline-blue-600 font-bold rounded-full ${selectedCategory === "all" ? "bg-blue-600 text-white" : "text-blue-700"}`}>
+          All Categories
+        </button>
         <button
           onClick={() => handleCategorySelect("janitorial")}
           className={`min-w-[150px] py-2 px-5 outline outline-1 outline-blue-600 font-bold rounded-full ${selectedCategory === "janitorial" ? "bg-blue-600 text-white" : "text-blue-700"}`}
@@ -114,13 +130,13 @@ function Products() {
         {/* end of Pagination */}
 
         {/* Search Input */}
-        <form className="w-full flex justify-end items-center gap-x-1">
-          <button className="bg-blue-600 p-3 rounded-lg">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="20" height="20" fill="white">
+        <form onSubmit={handleSearchSubmit} className="w-full flex justify-end items-center gap-x-1">
+          <button type="submit" className="bg-blue-600 p-3 rounded-lg">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" fill="white">
               <path d="M11 2C15.968 2 20 6.032 20 11C20 15.968 15.968 20 11 20C6.032 20 2 15.968 2 11C2 6.032 6.032 2 11 2ZM11 18C14.8675 18 18 14.8675 18 11C18 7.1325 14.8675 4 11 4C7.1325 4 4 7.1325 4 11C4 14.8675 7.1325 18 11 18ZM19.4853 18.0711L22.3137 20.8995L20.8995 22.3137L18.0711 19.4853L19.4853 18.0711Z"></path>
             </svg>
           </button>
-          <input type="text" placeholder="Search Product ..." className="input input-bordered w-full max-w-xs" />
+          <input type="text" placeholder="Search Product ..." className="input input-bordered w-full max-w-xs" value={searchQuery} onChange={handleSearchInputChange} />
         </form>
       </div>
       {/* End of Search Input */}
@@ -189,7 +205,7 @@ function Products() {
             )}
             <button onClick={() => setSelectedProduct(null)} className="group absolute bottom-5 left-1/2 -translate-x-1/2 hover:fill-red-700">
               <svg className="transition-all origin-bottom duration-300 lg:scale-0 group-hover:scale-100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32">
-                <path d="M12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22ZM12 20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4C7.58172 4 4 7.58172 4 12C4 16.4183 7.58172 20 12 20ZM12 10.5858L14.8284 7.75736L16.2426 9.17157L13.4142 12L16.2426 14.8284L14.8284 16.2426L12 13.4142L9.17157 16.2426L7.75736 14.8284L10.5858 12L7.75736 9.17157L9.17157 7.75736L12 10.5858Z"></path>
+                <path d="M12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22ZM12 20C16.4183 20 20 16.4183 20 11C20 7.58172 16.4183 4 12 4C7.58172 4 4 7.58172 4 11C4 16.4183 7.58172 20 12 20ZM12 10.5858L14.8284 7.75736L16.2426 9.17157L13.4142 12L16.2426 14.8284L14.8284 16.2426L12 13.4142L9.17157 16.2426L7.75736 14.8284L10.5858 12L7.75736 9.17157L9.17157 7.75736L12 10.5858Z"></path>
               </svg>
             </button>
           </form>
