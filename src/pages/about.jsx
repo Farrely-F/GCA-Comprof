@@ -34,7 +34,7 @@ function About() {
 
   return (
     <>
-      <div className="flex flex-col items-center px-5 lg:px-16 py-20">
+      <div className="flex flex-col items-center px-5 md:px-16 py-20">
         <div>
           <img
             src="https://s3-alpha-sig.figma.com/img/1935/cf5e/15f5e9002f153545607db2f281b9a9b1?Expires=1693785600&Signature=axe1SYAXMKznusVeNPAewot4bPFSK0wTbb8XJGXM9orJHtqTbQNgu5YerTcBWFOUg1B6WNLN5IflaYi5wDevRbFFmgHZXSLNap0PTaooo-PcVSV1a7XuGINjrlvJUSRrTtpsC9Y1Qo4ZbyZw8ujqZFXR5Mu947rkoYCQ1CJAkosjW509TNm2Ld2qjVYkPDZjxoreplCVQq3woAeaIRDXmtzogvYG1p5IshLMDkvappzccfemxrKa3LjUUWHQBE3cJzdWlar7cfRJS2nVXGj0B-HprA2yiRmpVRV8NcuMxswBWyUNfNbX2KIu~Kf21-Lwrhah-QdFDFJ-AlG5TBcJuA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
@@ -87,11 +87,11 @@ function About() {
           url="https://wa.me/08111927302?text=Hi%20I'm%20interested%20with%20your%20products!"
         />
       </div>
-      <div className="flex flex-col items-center px-5 lg:px-16 py-20">
+      <div className="flex flex-col items-center px-5 md:px-16 py-20">
         <h2 className="text-3xl mb-5">Our Location</h2>
         <div className="mb-20">
           <iframe
-            className="rounded-xl lg:w-[1000px]"
+            className="rounded-xl md:w-[600px] lg:w-[1000px]"
             src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1983.1607254092926!2d106.9593785!3d-6.2212756!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e698c7d6552dacf%3A0x2241bb72454254e4!2sBlok%20HH1%2C%20Jl.%20Bintara%20Niaga%202%20Blok%20II1%20No.16%2C%20RT.011%2FRW.012%2C%20Bintara%2C%20Bekasi%20Barat%2C%20Bekasi%2C%20West%20Java%2017134!5e0!3m2!1sid!2sid!4v1692963539218!5m2!1sid!2sid"
             height="450"
             allowFullScreen=""
@@ -115,11 +115,11 @@ function About() {
                 </svg>{" "}
                 GCAsupplies@yahoo.com
               </a>
-              <a className="link link-hover block">
+              <a href="tel:08111927302" className="link link-hover block">
                 <svg className="inline fill-black" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16">
                   <path d="M21 16.42V19.9561C21 20.4811 20.5941 20.9167 20.0705 20.9537C19.6331 20.9846 19.2763 21 19 21C10.1634 21 3 13.8366 3 5C3 4.72371 3.01545 4.36687 3.04635 3.9295C3.08337 3.40588 3.51894 3 4.04386 3H7.58010C7.83678 3 8.05176 3.19442 8.07753 3.4498C8.10067 3.67907 8.12218 3.86314 8.14207 4.00202C8.34435 5.41472 8.75753 6.75936 9.34870 8.00303C9.44359 8.20265 9.38171 8.44159 9.20185 8.57006L7.04355 10.1118C8.35752 13.1811 10.8189 15.6425 13.8882 16.9565L15.4271 14.8019C15.5572 14.6199 15.7990 14.5573 16.0010 14.6532C17.2446 15.2439 18.5891 15.6566 20.0016 15.8584C20.1396 15.8782 20.3225 15.8995 20.5502 15.9225C20.8056 15.9483 21 16.1633 21 16.42Z"></path>
                 </svg>{" "}
-                08111927302; 081519098202
+                08111927302
               </a>
               <img src="https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/30c198d5d59eca6721e1af408ed86b06bcb6dd24" alt="" />
             </div>
@@ -146,7 +146,7 @@ function About() {
                 Message
               </label>
               <textarea id="message" name="message" className="textarea textarea-bordered w-full max-w-sm mb-4" placeholder="Message" required></textarea>
-              <button type="submit" className="block px-5 py-2 bg-blue-700 text-white rounded-xl">
+              <button type="submit" className="block px-5 py-2 bg-blue-700 hover:bg-blue-600 text-white rounded-xl">
                 Submit
               </button>
             </form>

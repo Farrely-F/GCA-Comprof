@@ -385,5 +385,68 @@
     "minimum_order": "1000pcs/ukuran/design",
     "material": ["plastic"],
     "warna": ["Variasi"]
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/73eb/4314/45ba6857233b20e24edc4aa816af874a?Expires=1693785600&Signature=Zxzii-dwPFNGKAkSf47Gg4XfgCn7InBPdIfx9MhmPrBzxfRlMBpnVmfoicgsdpe86ZH~hAelejSbFndXKmBEsbgT6pw~TDa-lAYWIiQx0vHs20B0ET1SpmKn8jgcnQ1v35WE19znXoi37hh1RfX0n2o66BEGflzDxK5AO0w1b-Wnr3fWAIqUw6MfrugTucRgiacczk4NJbiEQ-V2f4nOu0sDUSx4czM7kFcWHeAR-~reiMJrvmnqaM3GbaWT8gmBEm-kL0rKymyi7N8m6jkfYVCqg76JPL97MICtl7Ci3RGtVouPQMBXbN4hzbS6tpQ7abYsJazIXqOahnJYU8tIoA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Shillow Pembersih Piring",
+    "description": "Diformulasikan untuk membersihkan kotoran berminyak, lemak dan sisa-sisa kotoran pada piring dan peralatan minum dan dapur serta anti bacterial",
+    "category": "chemical",
+    "minimum_order": "Carton (4 Jerigen x 5 liter)",
+    "material": ["Chemicals"],
+    "warna": []
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/1537/29c3/14af4a61c6144edfda4ccaa6553a4888?Expires=1693785600&Signature=UwYAmLZ7HAWCbtPOBefEvnWvyBgNpav-4qTuKsA5~FdsWXnjtsGuixfIpYZ-FpZeryqI5HSCFQvJEqfDHPlfYV-oo6xmXs28OD-aDnFBOjSqQ9g49ltK1smYQKR9WPXtsS4-L2ET3GMtIO2cy033hIYlIG5GClYngnRFEFO52lxzdSNS~b-kamfxOpKgWoGshKjbx3MwPQ3iYK51uQOSh7migr1BWi1ulPlEHV7D6KLz2fFcmxSXD1pw5GXDYZFk6v8oTc1tQz0rZLfE~PiX9VFWp-pPCYb~Z1bDil-cJMTNUpdZnU0oRIze4eGWlyRT6KI0WirJRvli~1HIHomgbw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Handflash Hand Sanitizer",
+    "description": "Cairan Antiseptik membunuh microba dan efektif terhadap envelope virus",
+    "category": "chemical",
+    "minimum_order": "Carton (4 Jerigen x 5 liter)",
+    "material": ["Antiseptic"],
+    "warna": []
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/0b10/d152/91df9531d04b9e90331cb7b4e6a7e60d?Expires=1693785600&Signature=NFywSudDgi~g-VXM7JSrEuAYFokOhpR4kS9iEicgIsuItV~8ITqyJCWqFo5jx4NzpW0S6SYBAXZolpZVI9RA51cOz1b69pPjJDaRQ77IMqIIuztzFhoLM582t2fhf3dHDv7Gzqo3xIl7fNYZcxsxq6K9fJW63xg8lFlKYJvTn7WAq3OJP-78N4bbJEz~WGK40sJdQMmc73~yjH87quXUDYhitElCGac0i8wbDhrITBiFFYa6LXYw-gtQfZ3XTvzkM6QIiSMEpRlcwUI-onBQiQ3TLKFjyIAOzuqKV6qPvTWCrJmYP1xS7pB28gq6mCGdWzSUzdaBeCFnXYtoP~YmAA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Shillow Bowklin",
+    "description": "Membersihkan kerak air, lumut, bercak pada porclean, keramik, toilet, urinal dan kaca",
+    "category": "chemical",
+    "minimum_order": "Carton (4 Jerigen x 5 liter)",
+    "material": ["Chemicals"],
+    "warna": []
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/bf3e/bb0a/784303d0e4654e15acab1251707a7b1b?Expires=1693785600&Signature=SZLW~oHQZ5nhUyRByi1OTnBpVVCKtDb2kl5uRgqm3E-Nujn0cwJ~VqRQ6n7zNHxffkJpSym~SKXQvmy0XTi45lEcH6vS2wBTWAxAc9DlDatQIZXkwRuxjU4WLTovOK142E5uObjmdAOvSHSeFFu1OSYRy4aZ0uFeJYOycE34lapUrCEFqL8Z-lS5Vr44BQGjDcsTcSUvo~6tSgAuNVwcr13MJo7BERgClqTM-EdMJkra7vOAfwapAEzOqZpD0QMSGdKq~qFLabdBL8D88P3OgUSqo~7o1RUKmmhJ0Qwwa8h9tPh4Qu0m0LCFyFVVYWTQghi2Z2i5PWQ5gKfGScmHsQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Shillow G-Flash",
+    "description": "Membersihkan kotoran yang melekat pada kaca, permukaan berbahan mengkilap lainnya",
+    "category": "chemical",
+    "minimum_order": "Carton (4 Jerigen x 5 liter)",
+    "material": ["Chemicals"],
+    "warna": []
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/de2156362379799a7c391de6a09eb8d366de45e7",
+    "title": "Shillow Pembersih Lantai",
+    "description": "Diformulasikan untuk membersihkan berbagai kotoran pada berbagai macam permukaan lantai, anti bacterial menjadikan lantai bersih, kesat dengan wangi menyegarkan.",
+    "category": "chemical",
+    "minimum_order": "Carton (4 Jerigen x 5 liter)",
+    "material": ["Chemicals"],
+    "warna": []
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/5bf4/e50d/30413285db0e8272353461afa25cd223?Expires=1693785600&Signature=TRzilhtM2Ntx9Arr0isFwuMfy87FX44BH9snn7aD20qfpNM8s292Ir~550A2cFszr-ajx-v--D-zCbZTyyjqNWzQ7xp8iWNtKKoKzsvlls8Y1NySpZmFIiheSXCLiFxgbaBm-tfWxHpb~MsFbEsCNvPszMJ2N-vo0cuLbjksKgMVe5uDgKYyRpjKs85DMFOFgp5c3Nmg~t83-U1xu2qYUrI5mE-rGdC5wXh9qW2Dmcg1Jy2m~mn5ced3DacrEQWRc1ybHrm-8pCYlLcxdQ684jxCAUd3Ca0bgwvjBw6VquqSC3TFm8UsdQPdE8Jz3-FCPHzfmXaMPUdvVYPLyqYzow__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Shillow Food Industri, Degreser Disinfectant",
+    "description": "concentrate silicate acids based, direkomendasikan untuk membersihkan peralatan yang kontak langsung dengan makanan (peralatan makan, dapur, food court dan dapur area industri makanan",
+    "category": "chemical",
+    "minimum_order": "Carton (4 Jerigen x 5 liter)",
+    "material": ["Chemicals"],
+    "warna": []
+  },
+  {
+    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/86a82587cc7dfa26364f06fa8a79a8583c7c6de1",
+    "title": "Handklin Antimicrobia Handsoap",
+    "description": "Sabun cair cuci tangan yang serbaguna, konsentrat, dengan keharuman yang lembut dan tahan laman, ampuh membunuh kuman dan membersihkan kotoran, lemak dan minyak hanya dengan sekali bilas, hemat air bilasan.",
+    "category": "chemical",
+    "minimum_order": "Carton (4 Jerigen x 5 liter)",
+    "material": ["Handsoap"],
+    "warna": []
   }
 ]

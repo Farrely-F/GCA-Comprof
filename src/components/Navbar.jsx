@@ -38,7 +38,7 @@ function Navbar() {
       <input id="my-drawer-3" type="checkbox" className="drawer-toggle" />
       <div className="drawer-content flex flex-col">
         {/* Navbar */}
-        <nav className={`w-full navbar justify-between ${scrolled ? "shadow-2xl shadow-blue-500/20 bg-white" : ""} lg:px-16`}>
+        <nav className={`w-full navbar justify-between ${scrolled ? "shadow-2xl shadow-blue-500/20 bg-white" : ""} md:px-16`}>
           <div className="">
             <a>
               <img
@@ -68,7 +68,7 @@ function Navbar() {
               </li>
             </ul>
           </div>
-          <a target="__blank" href="https://wa.me/08111927302?text=I'm%20interested%20with%20your%20products!" className="hidden lg:inline-flex bg-blue-700 text-white px-6 py-3 rounded-2xl">
+          <a target="__blank" href="https://wa.me/08111927302?text=I'm%20interested%20with%20your%20products!" className="hidden lg:inline-flex bg-blue-700 hover:bg-blue-600 text-white px-6 py-3 rounded-2xl">
             Contact Us
           </a>
         </nav>

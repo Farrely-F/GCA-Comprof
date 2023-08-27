@@ -5,6 +5,7 @@ import About from "./pages/about";
 import Navbar from "./components/navbar";
 import Footer from "./components/Footer";
 import Products from "./pages/products";
+import NotFound from "./pages/404";
 
 function ScrollToTop() {
   const location = useLocation();
@@ -27,6 +28,7 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/products" element={<Products />} />
+        <Route path="*" element={<NotFound />} />
       </Routes>
       <Footer />
     </BrowserRouter>

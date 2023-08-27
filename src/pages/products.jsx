@@ -13,6 +13,7 @@ function shortenString(str, maxLength) {
   }
 }
 
+// Products Components
 function Products() {
   const [selectedCategory, setSelectedCategory] = useState("all");
   const [selectedProduct, setSelectedProduct] = useState(null);
@@ -28,7 +29,7 @@ function Products() {
 
   const filteredProducts = selectedCategory === "all" ? products : products.filter((product) => product.category === selectedCategory);
 
-  // Step 3: Add a filter based on the search query
+  // Search Functions
   const filteredBySearch = filteredProducts.filter((product) => product.title.toLowerCase().includes(searchQuery.toLowerCase()));
 
   const totalProducts = filteredBySearch.length;
@@ -59,44 +60,47 @@ function Products() {
     // You can perform additional search-related actions here if needed
   };
 
+  // Extract unique categories from products data
+  const uniqueCategories = [...new Set(products.map((product) => product.category))];
+
+  // Function to Fix Case
+  function toProperCase(inputString) {
+    return inputString
+      .toLowerCase()
+      .split(" ")
+      .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+      .join(" ");
+  }
+
+  // Dynamically render filtering buttons
+  const categoryButtons = uniqueCategories.map((category, index) => (
+    <button
+      key={index}
+      onClick={() => handleCategorySelect(category)}
+      className={`text-xs min-w-[125px] py-2 px-4 outline outline-1 outline-blue-600 font-bold rounded-full ${selectedCategory === category ? "bg-blue-600 text-white outline-none" : "text-blue-700"}`}
+    >
+      {toProperCase(category)}
+    </button>
+  ));
+
   return (
-    <div className="flex flex-col items-center px-5 lg:px-16 py-20">
+    <div className="flex flex-col items-center px-5 lg:px-16 py-20 min-h-screen">
       <h2 className="text-4xl font-bold mb-3">Our Products</h2>
       <p className="mb-7 text-gray-400">These are our products:</p>
 
       {/* Category Section */}
-      <div className="flex lg:justify-center w-full overflow-x-scroll lg:overflow-x-auto gap-x-5 mb-8 py-2">
-        <button onClick={() => handleCategorySelect("all")} className={`min-w-[150px] py-2 px-5 outline outline-1 outline-blue-600 font-bold rounded-full ${selectedCategory === "all" ? "bg-blue-600 text-white" : "text-blue-700"}`}>
+      <div className="flex lg:justify-center w-full overflow-x-scroll lg:overflow-x-auto gap-x-5 mb-8 py-2 px-2">
+        <button
+          onClick={() => handleCategorySelect("all")}
+          className={`text-xs min-w-[125px] py-2 px-5 outline outline-1 outline-blue-600 font-bold rounded-full ${selectedCategory === "all" ? "bg-blue-600 text-white outline-none" : "text-blue-700"}`}
+        >
           All Categories
         </button>
-        <button
-          onClick={() => handleCategorySelect("janitorial")}
-          className={`min-w-[150px] py-2 px-5 outline outline-1 outline-blue-600 font-bold rounded-full ${selectedCategory === "janitorial" ? "bg-blue-600 text-white" : "text-blue-700"}`}
-        >
-          Janitorial Supports
-        </button>
-        <button
-          onClick={() => handleCategorySelect("plastic wares")}
-          className={`min-w-[150px] py-2 px-5 outline outline-1 outline-blue-600  font-bold rounded-full ${selectedCategory === "plastic wares" ? "bg-blue-600 text-white" : "text-blue-700"}`}
-        >
-          Plastic Wares
-        </button>
-        <button
-          onClick={() => handleCategorySelect("packaging")}
-          className={`min-w-[150px] py-2 px-5 outline outline-1 outline-blue-600  font-bold rounded-full ${selectedCategory === "packaging" ? "bg-blue-600 text-white" : "text-blue-700"}`}
-        >
-          Packaging
-        </button>
-        <button
-          onClick={() => handleCategorySelect("hygiene product")}
-          className={`min-w-[150px] py-2 px-5 outline outline-1 outline-blue-600 font-bold rounded-full ${selectedCategory === "hygiene product" ? "bg-blue-600 text-white" : "text-blue-700"}`}
-        >
-          Hygiene Product
-        </button>
+        {categoryButtons}
       </div>
 
       {/* Filtering */}
-      <div className="w-[85%] flex flex-col-reverse gap-y-5 lg:flex-row justify-between items-center mb-5">
+      <div className="w-[85%] flex flex-col-reverse gap-y-5 md:flex-row justify-between items-center mb-10">
         {/* Pagination */}
         <div className="flex justify-center items-center gap-x-5">
           {currentPage > 1 ? (
@@ -131,52 +135,92 @@ function Products() {
 
         {/* Search Input */}
         <form onSubmit={handleSearchSubmit} className="w-full flex justify-end items-center gap-x-1">
-          <button type="submit" className="bg-blue-600 p-3 rounded-lg">
+          <button type="submit" className="bg-blue-600 px-2 py-1 w-8 h-8  rounded-lg">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" fill="white">
               <path d="M11 2C15.968 2 20 6.032 20 11C20 15.968 15.968 20 11 20C6.032 20 2 15.968 2 11C2 6.032 6.032 2 11 2ZM11 18C14.8675 18 18 14.8675 18 11C18 7.1325 14.8675 4 11 4C7.1325 4 4 7.1325 4 11C4 14.8675 7.1325 18 11 18ZM19.4853 18.0711L22.3137 20.8995L20.8995 22.3137L18.0711 19.4853L19.4853 18.0711Z"></path>
             </svg>
           </button>
-          <input type="text" placeholder="Search Product ..." className="input input-bordered w-full max-w-xs" value={searchQuery} onChange={handleSearchInputChange} />
+          <input type="text" placeholder="Search Product ..." className="text-sm input input-bordered w-full max-w-xs max-h-8 focus:outline-none" value={searchQuery} onChange={handleSearchInputChange} />
         </form>
       </div>
       {/* End of Search Input */}
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-5 mx-auto place-items-center">
-        {currentProducts.map((product, index) => (
-          <div
-            key={index}
-            onClick={() => {
-              setSelectedProduct(product);
-              modal();
-            }}
-            className="hover:cursor-pointer max-w-[321px] min-h-[479px] aspect-auto hover:shadow-[0px_4px_56px_0px_rgba(0,_0,_0,_0.15)] p-4 rounded-2xl lg:hover:scale-105 transition ease-in-out duration-300"
-          >
-            <img src={product.image} alt="image" className="h-[250px] w-full  rounded-lg object-cover object-center mx-auto mb-2" />
-            <div className="text-blue-700 h-[200px]">
-              <h3 className="text-xl font-bold">{product.title}</h3>
-              <p className="font-extralight text-xs">Minimum Order: {product.minimum_order}</p>
-              <p className="font-extralight text-xs mb-2">{shortenString(product.description, 50)}</p>
-              <div className="flex gap-2 min-w-[321px] h-fit flex-wrap mb-4">
-                {product.material.map((material, materialIndex) => (
-                  <p key={materialIndex} className="badge outline outline-1 outline-blue-700 text-blue-700">
-                    {material}
-                  </p>
-                ))}
+      {/* Product Cards */}
+      <div className={`grid grid-cols-1 gap-5 mx-auto place-items-center mb-10 ${currentProducts.length > 0 ? "md:grid-cols-2 lg:grid-cols-3" : "md:grid-cols-1"}`}>
+        {currentProducts.length > 0 ? (
+          currentProducts.map((product, index) => (
+            <div
+              key={index}
+              onClick={() => {
+                setSelectedProduct(product);
+                modal();
+              }}
+              className="hover:cursor-pointer max-w-[321px] min-h-[479px] aspect-auto hover:shadow-[0px_4px_56px_0px_rgba(0,_0,_0,_0.15)] p-4 rounded-2xl lg:hover:scale-105 transition ease-in-out duration-300"
+            >
+              <img src={product.image} alt="image" className="h-[250px] w-full  rounded-lg object-cover object-center mx-auto mb-2" />
+              <div className="text-blue-700 h-[200px]">
+                <h3 className="text-xl font-bold">{product.title}</h3>
+                <p className="font-extralight text-xs">Minimum Order: {product.minimum_order}</p>
+                <p className="font-extralight text-xs mb-2">{shortenString(product.description, 50)}</p>
+                <div className="flex gap-2 min-w-[321px] h-fit flex-wrap mb-4">
+                  {product.material.length > 0
+                    ? product.material.map((material, materialIndex) => (
+                        <p key={materialIndex} className="badge outline outline-1 outline-blue-700 text-blue-700">
+                          {material}
+                        </p>
+                      ))
+                    : ""}
+                </div>
+              </div>
+              <div className="flex justify-end">
+                <a
+                  onClick={(event) => {
+                    event.stopPropagation();
+                  }}
+                  href={`https://wa.me/628111927302?text=Hi%20I'm%20interested%20with%20your%20products:%20${product.title}`}
+                  className="text-sm bg-blue-700 hover:bg-blue-600 text-white px-5 py-2 rounded-xl"
+                >
+                  Buy Now
+                </a>
               </div>
             </div>
-            <div className="flex justify-end">
-              <a
-                onClick={(event) => {
-                  event.stopPropagation();
-                }}
-                href={`https://wa.me/628111927302?text=Hi%20I'm%20interested%20with%20your%20products:%20${product.title}`}
-                className="text-sm bg-blue-700 text-white px-5 py-2 rounded-xl"
-              >
-                Buy Now
-              </a>
-            </div>
+          ))
+        ) : (
+          <div className="min-h-screen">
+            <p>No Product Found</p>
           </div>
-        ))}
+        )}
+      </div>
+
+      {/* Bottom Pagination */}
+      <div className="w-[85%] flex justify-end items-center gap-x-5">
+        {currentPage > 1 ? (
+          <button onClick={prevPage} className="bg-blue-600 p-2 rounded-xl">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16">
+              <path d="M8 12L14 6V18L8 12Z" fill="rgba(255,255,255,1)"></path>
+            </svg>
+          </button>
+        ) : (
+          <button className="opacity-40 cursor-not-allowed bg-gray-400 text-white p-2 rounded-xl">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16">
+              <path d="M8 12L14 6V18L8 12Z" fill="rgba(255,255,255,1)"></path>
+            </svg>
+          </button>
+        )}
+        <span className="text-blue-700 font-bold px-2">{currentPage}</span>
+        {currentPage < totalPages ? (
+          <button onClick={nextPage} className="bg-blue-600 text-white p-2 rounded-xl">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16">
+              <path d="M16 12L10 18V6L16 12Z" fill="rgba(255,255,255,1)"></path>
+            </svg>
+          </button>
+        ) : (
+          <button className="opacity-40 cursor-not-allowed bg-gray-400 text-white p-2 rounded-xl">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16">
+              <path d="M16 12L10 18V6L16 12Z" fill="rgba(255,255,255,1)"></path>
+            </svg>
+          </button>
+        )}
       </div>
 
       <div>
