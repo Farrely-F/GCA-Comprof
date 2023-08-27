@@ -35,35 +35,35 @@ function About() {
   return (
     <>
       <div className="flex flex-col items-center px-5 md:px-16 py-20">
-        <div>
+        <div data-aos="zoom-in" data-aos-once="true" data-aos-delay="300">
           <img
             src="https://s3-alpha-sig.figma.com/img/1935/cf5e/15f5e9002f153545607db2f281b9a9b1?Expires=1693785600&Signature=axe1SYAXMKznusVeNPAewot4bPFSK0wTbb8XJGXM9orJHtqTbQNgu5YerTcBWFOUg1B6WNLN5IflaYi5wDevRbFFmgHZXSLNap0PTaooo-PcVSV1a7XuGINjrlvJUSRrTtpsC9Y1Qo4ZbyZw8ujqZFXR5Mu947rkoYCQ1CJAkosjW509TNm2Ld2qjVYkPDZjxoreplCVQq3woAeaIRDXmtzogvYG1p5IshLMDkvappzccfemxrKa3LjUUWHQBE3cJzdWlar7cfRJS2nVXGj0B-HprA2yiRmpVRV8NcuMxswBWyUNfNbX2KIu~Kf21-Lwrhah-QdFDFJ-AlG5TBcJuA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
             alt=""
             className="w-[381px] mb-20"
           />
         </div>
-        <p className="mb-48">
+        <p className="mb-48" data-aos="zoom-in" data-aos-once="true" data-aos-delay="500">
           Griya Cipta Abadi stands as your trusted partner in the realm of cleanliness and hygiene. As a dedicated company, we take pride in being your local go-to source for an extensive range of cleaning solutions and hygiene essentials.
           Our diverse inventory includes a variety of cleaning chemicals tailored to meet your specific needs, as well as an array of complementary tools to support your cleaning endeavors. From sturdy trash bags and convenient shopping
           totes to protective gloves, durable cleaning cloths, efficient mops, reliable aprons, and even window squeegees, we've got you covered. We understand that maintaining a clean and healthy environment is of utmost importance, and
           we're here to provide you with the products that make it easier, more efficient, and ultimately, more enjoyable. Choose Griya Cipta Abadi for your cleanliness needs and experience the difference in quality and service that sets us
           apart.
         </p>
-        <div className="mb-48">
+        <div className="mb-48" data-aos="zoom-in" data-aos-once="true" data-aos-delay="500">
           <h2 className="text-8xl font-bold mb-7">Our Vision</h2>
           <p>
             At Griya Cipta Abadi, our vision is to lead the way in promoting a cleaner, safer, and healthier world. We aspire to be the foremost provider of innovative cleaning solutions, setting new standards in cleanliness and hygiene.
             Our commitment is to empower individuals, businesses, and communities to thrive in healthy environments while continually striving for excellence in every aspect of our operations.
           </p>
         </div>
-        <div className="mb-48">
+        <div className="mb-48" data-aos="zoom-in" data-aos-once="true" data-aos-delay="500">
           <h2 className="text-8xl font-bold mb-7 text-end">Our Mission</h2>
           <p className="text-end">
             We deliver top-notch cleaning products and hygiene essentials that cater to the diverse needs of our valued customers. We are dedicated to offering a comprehensive range of high-quality, locally sourced products that foster
             cleanliness and convenience. We aim to build lasting relationships with our clients by providing exceptional service, expert guidance, and responsible solutions.
           </p>
         </div>
-        <div className="mb-48">
+        <div className="mb-48" data-aos="zoom-in" data-aos-once="true" data-aos-delay="500">
           <h2 className="text-8xl font-bold mb-7">Why Us?</h2>
           <ol>
             <li>
@@ -87,7 +87,7 @@ function About() {
           url="https://wa.me/08111927302?text=Hi%20I'm%20interested%20with%20your%20products!"
         />
       </div>
-      <div className="flex flex-col items-center px-5 md:px-16 py-20">
+      <div className="flex flex-col items-center px-5 md:px-16 py-20" data-aos="zoom-in" data-aos-once="true" data-aos-delay="500">
         <h2 className="text-3xl mb-5">Our Location</h2>
         <div className="mb-20">
           <iframe

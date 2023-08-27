@@ -8,7 +8,7 @@ function Accordion() {
   };
 
   return (
-    <div className="min-h-[600px] px-5 lg:px-16">
+    <div className="min-h-[600px] px-5 lg:px-16" data-aos="zoom-in" data-aos-once="true" data-aos-delay="500">
       <h2 className="text-center text-3xl font-bold mb-5">FAQ</h2>
       <div className="flex flex-col gap-y-5 transition-all">
         <div className="collapse collapse-arrow outline outline-1 outline-slate-400/40">

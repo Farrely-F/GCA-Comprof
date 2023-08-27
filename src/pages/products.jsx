@@ -1,5 +1,6 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import products from "../data/products.json";
+import Skeleton from "../components/Skeleton";
 
 function modal() {
   window.my_modal_2.showModal();
@@ -15,13 +16,27 @@ function shortenString(str, maxLength) {
 
 // Products Components
 function Products() {
+  const [loading, setLoading] = useState(true);
   const [selectedCategory, setSelectedCategory] = useState("all");
   const [selectedProduct, setSelectedProduct] = useState(null);
   const [currentPage, setCurrentPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState(""); // Step 1: Add search query state
   const productsPerPage = 6;
 
+  useEffect(() => {
+    // Simulate loading for 2 seconds (adjust the delay as needed)
+    const loadingTimeout = setTimeout(() => {
+      setLoading(false);
+    }, 700);
+
+    return () => {
+      // Cleanup the timeout if the component unmounts
+      clearTimeout(loadingTimeout);
+    };
+  }, [currentPage, selectedCategory]);
+
   const handleCategorySelect = (category) => {
+    setLoading(true);
     setSelectedCategory(category);
     setSelectedProduct(null);
     setCurrentPage(1);
@@ -41,12 +56,14 @@ function Products() {
 
   const nextPage = () => {
     if (currentProducts.length === productsPerPage && currentPage < totalPages) {
+      setLoading(true);
       setCurrentPage(currentPage + 1);
     }
   };
 
   const prevPage = () => {
     if (currentPage > 1) {
+      setLoading(true);
       setCurrentPage(currentPage - 1);
     }
   };
@@ -146,8 +163,11 @@ function Products() {
       {/* End of Search Input */}
 
       {/* Product Cards */}
-      <div className={`grid grid-cols-1 gap-5 mx-auto place-items-center mb-10 ${currentProducts.length > 0 ? "md:grid-cols-2 lg:grid-cols-3" : "md:grid-cols-1"}`}>
-        {currentProducts.length > 0 ? (
+      <div className={`grid grid-cols-1 gap-5 mx-auto place-items-center mb-10 ${currentProducts.length > 0 ? "md:grid-cols-2 lg:grid-cols-3" : "md:grid-cols-1"}`} data-aos="zoom-in" data-aos-once="false" data-aos-delay="500">
+        {loading ? (
+          // Render skeleton components while loading
+          Array.from({ length: productsPerPage }).map((_, index) => <Skeleton key={index} />)
+        ) : currentProducts.length > 0 ? (
           currentProducts.map((product, index) => (
             <div
               key={index}
@@ -186,7 +206,7 @@ function Products() {
             </div>
           ))
         ) : (
-          <div className="min-h-screen">
+          <div className="min-h-screen" data-aos="zoom-in" data-aos-once="true" data-aos-delay="300">
             <p>No Product Found</p>
           </div>
         )}
@@ -195,7 +215,13 @@ function Products() {
       {/* Bottom Pagination */}
       <div className="w-[85%] flex justify-end items-center gap-x-5">
         {currentPage > 1 ? (
-          <button onClick={prevPage} className="bg-blue-600 p-2 rounded-xl">
+          <button
+            onClick={() => {
+              prevPage();
+              window.scrollTo({ top: 0, behavior: "smooth" });
+            }}
+            className="bg-blue-600 p-2 rounded-xl"
+          >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16">
               <path d="M8 12L14 6V18L8 12Z" fill="rgba(255,255,255,1)"></path>
             </svg>
@@ -209,7 +235,13 @@ function Products() {
         )}
         <span className="text-blue-700 font-bold px-2">{currentPage}</span>
         {currentPage < totalPages ? (
-          <button onClick={nextPage} className="bg-blue-600 text-white p-2 rounded-xl">
+          <button
+            onClick={() => {
+              nextPage();
+              window.scrollTo({ top: 0, behavior: "smooth" });
+            }}
+            className="bg-blue-600 text-white p-2 rounded-xl"
+          >
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16">
               <path d="M16 12L10 18V6L16 12Z" fill="rgba(255,255,255,1)"></path>
             </svg>
@@ -253,7 +285,7 @@ function Products() {
               </svg>
             </button>
           </form>
-          <form method="dialog" className="modal-backdrop">
+          <form method="dialog" className="modal-backdrop backdrop-blur-sm">
             <button onClick={() => setSelectedProduct(null)}>close</button>
           </form>
         </dialog>

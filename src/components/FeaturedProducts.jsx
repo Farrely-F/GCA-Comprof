@@ -3,10 +3,10 @@ import { Link } from "react-router-dom";
 
 function FeaturedProducts() {
   return (
-    <div className="min-h-screen flex flex-col justify-center">
+    <div className="min-h-screen flex flex-col justify-center" data-aos="fade-up" data-aos-once="true" data-aos-delay="500">
       <h2 className="text-center text-3xl font-medium">Featured Products</h2>
-      <p className="text-center text-slate-400 font-normal md:mb-10">There are our main products</p>
-      <div className="grid grid-cols-2 lg:grid-cols-4 gap-y-5 justify-items-center md:mb-10 md:px-16">
+      <p className="text-center text-slate-400 font-normal mb-10">There are our main products</p>
+      <div className="grid grid-cols-2 lg:grid-cols-4 gap-y-5 justify-items-center mb-10 md:px-16">
         <div className="flex flex-col items-center w-fit gap-y-5 ">
           <div className="bg-[linear-gradient(to_right,rgba(0,34,154,0.8),rgba(112,119,190,0.5)),url('https://s3-alpha-sig.figma.com/img/1281/9dda/8e7ce2851d77a47edaa4b810c7ecd9b6?Expires=1693785600&Signature=P-a7YiGgIYwbMySJRJklsq7QSsy-wSRy8XPHPqjvUiY1c2qbBs7CCTLmGXHIL~3d0FrR9r-juN9vK2vapPBfzHu6c49cLjGxvfPeKgwYkgX9ve3JOYD6TOh9GwuNwwRi9me~hvcq9laIBuHzFplATT-l0BrlBNhKaFYxmOJsCgUwBCIatMQAmw2ZQskRvXRRUWuq96qWScrPyOP2Tq-V7Qw9wYAokaI1gD2CrV0je34mCS1Jx0d07jAMrDqJBDokiTaCE1Jd2O7449TqMl1PDaUT71iDbxeQQxZbwBczAI4T4snZtAj4nWD0Y0nvJxCGZBPyXB-W-Syob4IB~ovNxQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4')] w-40 h-28 md:w-60 md:h-52 bg-cover rounded-2xl hover:scale-105 transition ease-out duration-300 hover:animate-pulse" />
           <p>Janitorial Support</p>
