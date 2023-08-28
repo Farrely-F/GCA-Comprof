@@ -1,5 +1,5 @@
-import React from "react";
 import { Link } from "react-router-dom";
+import PropTypes from "prop-types"; // Import PropTypes
 
 function Banner(props) {
   const { title, description, cta, variant, url, arrow } = props;
@@ -33,5 +33,14 @@ function Banner(props) {
     </div>
   );
 }
+
+Banner.propTypes = {
+  title: PropTypes.string.isRequired, // Example of a required string prop
+  description: PropTypes.string,
+  cta: PropTypes.string.isRequired,
+  variant: PropTypes.string.isRequired,
+  url: PropTypes.string.isRequired,
+  arrow: PropTypes.string,
+};
 
 export default Banner;

@@ -1,6 +1,4 @@
-import React from "react";
 import emailjs from "emailjs-com";
-import Navbar from "../components/navbar";
 import Banner from "../components/Banner";
 import Swal from "sweetalert2";
 
@@ -45,9 +43,9 @@ function About() {
         <p className="mb-48" data-aos="zoom-in" data-aos-once="true" data-aos-delay="500">
           Griya Cipta Abadi stands as your trusted partner in the realm of cleanliness and hygiene. As a dedicated company, we take pride in being your local go-to source for an extensive range of cleaning solutions and hygiene essentials.
           Our diverse inventory includes a variety of cleaning chemicals tailored to meet your specific needs, as well as an array of complementary tools to support your cleaning endeavors. From sturdy trash bags and convenient shopping
-          totes to protective gloves, durable cleaning cloths, efficient mops, reliable aprons, and even window squeegees, we've got you covered. We understand that maintaining a clean and healthy environment is of utmost importance, and
-          we're here to provide you with the products that make it easier, more efficient, and ultimately, more enjoyable. Choose Griya Cipta Abadi for your cleanliness needs and experience the difference in quality and service that sets us
-          apart.
+          totes to protective gloves, durable cleaning cloths, efficient mops, reliable aprons, and even window squeegees, we&apos;ve got you covered. We understand that maintaining a clean and healthy environment is of utmost importance,
+          and we&apos;re here to provide you with the products that make it easier, more efficient, and ultimately, more enjoyable. Choose Griya Cipta Abadi for your cleanliness needs and experience the difference in quality and service
+          that sets us apart.
         </p>
         <div className="mb-48" data-aos="zoom-in" data-aos-once="true" data-aos-delay="500">
           <h2 className="text-8xl font-bold mb-7">Our Vision</h2>

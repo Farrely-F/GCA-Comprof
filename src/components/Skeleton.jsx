@@ -1,5 +1,3 @@
-import React from "react";
-
 function Skeleton() {
   return (
     <div className="max-w-[321px] min-h-[479px] aspect-auto p-4 rounded-2xl animate-pulse">

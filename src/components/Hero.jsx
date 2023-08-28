@@ -1,5 +1,3 @@
-import React from "react";
-
 function Hero() {
   return (
     // Moved navbar here to ensure the screen size good
@@ -12,8 +10,8 @@ function Hero() {
         <div className="relative">
           <h1 className="text-3xl md:text-5xl lg:text-7xl font-bold">Your Trusted Cleanliness Partner</h1>
           <p className="text-xs md:text-base py-4 text-slate-400 font-light lg:mb-11">
-            Discover the art of effortless cleanliness with Griya Cipta Abadi! Your local partner for all things clean, from top-notch cleaning chemicals to essential hygiene companions like trash bags, gloves, and more. We've got your back
-            for a pristine environment.
+            Discover the art of effortless cleanliness with Griya Cipta Abadi! Your local partner for all things clean, from top-notch cleaning chemicals to essential hygiene companions like trash bags, gloves, and more. We&apos;ve got your
+            back for a pristine environment.
           </p>
           <a
             target="__blank"
