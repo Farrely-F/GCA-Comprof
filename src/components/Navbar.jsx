@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 
 function Navbar() {
@@ -34,7 +34,7 @@ function Navbar() {
   };
 
   return (
-    <div className="drawer">
+    <div className="drawer sticky top-0 z-50">
       <input id="my-drawer-3" type="checkbox" className="drawer-toggle" />
       <div className="drawer-content flex flex-col">
         {/* Navbar */}
