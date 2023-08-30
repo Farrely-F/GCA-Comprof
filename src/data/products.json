@@ -542,5 +542,16 @@
     "minimum_order": "-",
     "material": ["Kain Spunbound"],
     "warna": ["custom"]
+  },
+  {
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/deb1/96a9/e736f81ff1daefef26e568bd849f98e7?Expires=1694390400&Signature=IfHeBdYDYidn24qeCOm8LhdnLS4su9ILnTJI6AVi3G8j6bdGKWdIi1-zICLMsED5nu68GCtwSr9c9CAlka~FpWR0qLeAYyZsLSfUFiUwwdBZBP19Y9J4OIfCiEmi0LeKy1wJwHMTYToquCeargcZTHIrnusvb4BZC-6WN4XxVuHE24OAmUtyzLoVhPVL8HcDUO52j3Zg~AKh6vNg8BXErBOejYAVKwLtA55OvZ8ziu-HaZM4JHPxAuxU8Vw6FFY5SeQILShJe97nVpmP4a4Zy0ID7pOFfFAZSAHRN111c7CqJa3TfB5zL8KXejIiAdBuqHpji~9q~iMu7t6oDOkPoA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
+    "title": "Nitrile Hand Gloves",
+    "description": "Sarung tangan dengan durabilitas tinggi, tidak mudah bocor dan tagan terhadap bahan kimia terbuat dari material karet sintesis",
+    "category": "packaging",
+    "minimum_order": "-",
+    "material": ["Karet Nitril"],
+    "warna": ["toska"]
   }
 ]
