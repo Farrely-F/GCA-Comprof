@@ -448,5 +448,14 @@
     "minimum_order": "Carton (4 Jerigen x 5 liter)",
     "material": ["Handsoap"],
     "warna": []
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/a07b/f2c1/122d0b2b86f89a63ef43a5902f318498?Expires=1694390400&Signature=apxuMNeppB3T4d6e1bjjf7-4iWp4mXslldCMXiXtcvJ4QoZzaQ5WLjF4HLhNvGmQSikKMUkHFhSH~rA22MC1OnVJdnCfMI6XB8GeQYhZ~Zn8PrWHxYFSbNHnr6ftDnGn7dOKccWX8u1O0XTaw5twkCWeteaZh7WxdpauJaWLTbLoUhNl~-flV3iv4ErG7x7lrrUpuLSbDWYv4EhmmZU~NBwHQIUgm4XnoeCkjzvjmn~nNZbNbSYTH5SrP4X6eRspKyiiGioQiBlDVogCRfNo~1cMheWPFOXj8ewmA6~3F6VzFXOAdbx~lQiTFZvvKeKbCiJsyTWq-GzqAgcVHV36MQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "title": "Tas Spunbound",
+    "description": "tas yang dibuat dari bahan kain sintetis, ramah lingkungan dan dapat didaur ulang",
+    "category": "packaging",
+    "minimum_order": "",
+    "material": ["Kain Spunbound"],
+    "warna": ["custom"]
   }
 ]
