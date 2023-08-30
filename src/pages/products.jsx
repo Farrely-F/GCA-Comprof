@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import products from "../data/products.json";
 import Skeleton from "../components/Skeleton";
+import ProductCarousel from "../components/Carousel";
 
 function modal() {
   window.my_modal_2.showModal();
@@ -100,6 +101,13 @@ function Products() {
     </button>
   ));
 
+  const closeModal = () => {
+    setSelectedProduct(null);
+
+    // Clear the URL fragment (e.g., #slide) by replacing it with an empty string
+    window.history.replaceState(null, null, window.location.pathname);
+  };
+
   return (
     <div className="flex flex-col items-center px-5 lg:px-16 py-20 min-h-screen">
       <h2 className="text-4xl font-bold mb-3">Our Products</h2>
@@ -177,7 +185,7 @@ function Products() {
               }}
               className="hover:cursor-pointer max-w-[321px] min-h-[479px] aspect-auto hover:shadow-[0px_4px_56px_0px_rgba(0,_0,_0,_0.15)] p-4 rounded-2xl lg:hover:scale-105 transition ease-in-out duration-300"
             >
-              <img src={product.image} alt="image" className="h-[250px] w-full  rounded-lg object-cover object-center mx-auto mb-2" />
+              <img src={product.image[0]} alt="image" className="h-[250px] w-full  rounded-lg object-cover object-center mx-auto mb-2" />
               <div className="text-blue-700 h-[200px]">
                 <h3 className="text-xl font-bold">{product.title}</h3>
                 <p className="font-extralight text-xs">Minimum Order: {product.minimum_order}</p>
@@ -260,7 +268,7 @@ function Products() {
           <form method="dialog" className="modal-box lg:min-w-[1/2] min-h-[90%] relative">
             {selectedProduct && (
               <>
-                <img src={selectedProduct.image} alt="image" className="w-[100%] max-h-[250px] rounded-lg object-contain object-center mb-2" />
+                <ProductCarousel selectedProduct={selectedProduct} />
                 <div className="text-blue-700">
                   <h3 className="text-3xl font-bold mb-2">{selectedProduct.title}</h3>
                   <p className="text-sm mb-2">
@@ -279,14 +287,14 @@ function Products() {
                 </div>
               </>
             )}
-            <button onClick={() => setSelectedProduct(null)} className="group absolute bottom-5 left-1/2 -translate-x-1/2 hover:fill-red-700">
+            <button onClick={closeModal} className="group absolute bottom-5 left-1/2 -translate-x-1/2 hover:fill-red-700">
               <svg className="transition-all origin-bottom duration-300 lg:scale-0 group-hover:scale-100" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="32" height="32">
                 <path d="M12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12C22 17.5228 17.5228 22 12 22ZM12 20C16.4183 20 20 16.4183 20 11C20 7.58172 16.4183 4 12 4C7.58172 4 4 7.58172 4 11C4 16.4183 7.58172 20 12 20ZM12 10.5858L14.8284 7.75736L16.2426 9.17157L13.4142 12L16.2426 14.8284L14.8284 16.2426L12 13.4142L9.17157 16.2426L7.75736 14.8284L10.5858 12L7.75736 9.17157L9.17157 7.75736L12 10.5858Z"></path>
               </svg>
             </button>
           </form>
           <form method="dialog" className="modal-backdrop backdrop-blur-sm">
-            <button onClick={() => setSelectedProduct(null)}>close</button>
+            <button onClick={closeModal}>close</button>
           </form>
         </dialog>
       </div>

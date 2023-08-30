@@ -1,6 +1,11 @@
 [
   {
-    "image": "https://s3-alpha-sig.figma.com/img/87cf/992c/f88262f4a96bb165ac311e87f1041723?Expires=1693785600&Signature=C6KeZnYF8Zv12g6V3wdwVT8EgrMAw-t783Wncilk5Z9vXttsPCJS-aMwIAGD3ezDld23C6~Ac9Bu3OIkDlZ3rG80Uy-87bWoRGLqZoDON55mGawcSFNiG5bCSbarh7ryg59p31KfuZ0XWpY16mUqFUyZsEwMK~0GFw3ZLelumAqY3039BGyXitD4BMb0EnGJYgTMPydwAnWD1A~bsMZ-RDurmRgKnyelZJj2~qKf4EL4aaL0iNG5Pbop7X3aN-TrLoSq6kAtzxrDwCY4ynlIitQRLFQKGRucb4WUTv7Egb~iyJqWBBSzL2kgcn6LDWtsM42GEc-D4OkWyNdQjMwrFQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/87cf/992c/f88262f4a96bb165ac311e87f1041723?Expires=1693785600&Signature=C6KeZnYF8Zv12g6V3wdwVT8EgrMAw-t783Wncilk5Z9vXttsPCJS-aMwIAGD3ezDld23C6~Ac9Bu3OIkDlZ3rG80Uy-87bWoRGLqZoDON55mGawcSFNiG5bCSbarh7ryg59p31KfuZ0XWpY16mUqFUyZsEwMK~0GFw3ZLelumAqY3039BGyXitD4BMb0EnGJYgTMPydwAnWD1A~bsMZ-RDurmRgKnyelZJj2~qKf4EL4aaL0iNG5Pbop7X3aN-TrLoSq6kAtzxrDwCY4ynlIitQRLFQKGRucb4WUTv7Egb~iyJqWBBSzL2kgcn6LDWtsM42GEc-D4OkWyNdQjMwrFQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "https://s3-alpha-sig.figma.com/img/449f/324a/4cec62f3afcbb75870d9986dc7f07d39?Expires=1694390400&Signature=iuulC20uXKMYunQk2qH-SdR~Ikm~ToLuxLgwwK2G77Z-LkCPZKaGsMWox~zK6dzl9fGbhALrQxfGiSPSLPwFNqSVvXC15O82oCeCfPzT0mAP7guAg6QC3yjpGgYTFo7uAZnn5fC6BJ0FIk~0jCK1EY8e4m9SsuAukv7Gqnz4Wbda2~GY1kMmqUp98cDiyPtWOl8xnEsSvNqy9a3Z~2bgKX5UKsrarM4gZWmmjNXNwLvqITw7YtM9lBZZ9DMJ8mm5Ew8YTqic6ptZkKr4ipWbHWlfO0whUoDLsxire~yCetfm5c-ZIhA0vZo1LpO-w8qSCA3fearHDaKyXmqwpeY3pA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/3de95200d79cdbd320c8a1e74d79c5b6095157b4",
+      "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/4228fbd3fd5bced9b8b84f69c52bada2830daa4e"
+    ],
     "title": "Trash Liner (Kantong Sampah)",
     "description": "kantong sampah yang digunakan sebagai liner dalam garbage bin",
     "category": "janitorial",
@@ -9,7 +14,9 @@
     "warna": ["Bening", "Hitam"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/23cd/b5f6/7bc4fe61d307698406bd3609ee33d0d8?Expires=1693785600&Signature=g9lSu5tTo19B3oNU6yxmn6vNrGUabHXPz5YasYVo7PmWcZJaaTSEfM2U1wElx9mu~6MsFcQza21rbXTIcvfNeq13K6cYr8yP~0tBGUHE24H2GEnOxhdd9M8EW~vCmmTALDRwWJfZ4j57lReu3fLGTNKOxKKLEqf2punEAjjuY1zlAQ1TdulpLiUMoUVCq4B-SLHCYcERae1GVCujBvDhXZW7zLvEF46rrhjqqC0ZauDY-~zdEnbHRz2qtWXOJfqHYJTqpg9g0eqR98F9S6zjKebhqkFlgV~MbV4PmdXabqEKG49WKfdfx9lYwVq2uD7Ix46fp4ZZr5k9jRIBiBkFIQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/23cd/b5f6/7bc4fe61d307698406bd3609ee33d0d8?Expires=1693785600&Signature=g9lSu5tTo19B3oNU6yxmn6vNrGUabHXPz5YasYVo7PmWcZJaaTSEfM2U1wElx9mu~6MsFcQza21rbXTIcvfNeq13K6cYr8yP~0tBGUHE24H2GEnOxhdd9M8EW~vCmmTALDRwWJfZ4j57lReu3fLGTNKOxKKLEqf2punEAjjuY1zlAQ1TdulpLiUMoUVCq4B-SLHCYcERae1GVCujBvDhXZW7zLvEF46rrhjqqC0ZauDY-~zdEnbHRz2qtWXOJfqHYJTqpg9g0eqR98F9S6zjKebhqkFlgV~MbV4PmdXabqEKG49WKfdfx9lYwVq2uD7Ix46fp4ZZr5k9jRIBiBkFIQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Kantong Kemas (Food Grade)",
     "description": "Kantong Kemas merupakan kantong kemas yang digunakan sebagai packaging produk/bahan makanan (food grade)",
     "category": "janitorial",
@@ -18,7 +25,11 @@
     "warna": []
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/b96e5016aa181beb656eb9b818a213942a7fb090",
+    "image": [
+      "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/b96e5016aa181beb656eb9b818a213942a7fb090",
+      "https://s3-alpha-sig.figma.com/img/0860/9dc1/65909359b3835bba768b607bef4640d0?Expires=1694390400&Signature=XBVE8PUc~lBcucKk3NANMiTnI3KrjTTViO88Y9Ww7s9IjAFkrL7csnnuO9TkvctRrFPuc7thv4B2-LnHC0NqYtJvrO2QyvpgPwVIz7~XBlk8SzFZYXknZgQKXkXFssr7TCVqpcDjm4~4~zniTKVSBpMCULxiCxmUi7OBty8WIGsvB5E66AV91fY9Y5b0lvuYlKwR7zMXKpBk8~6wlpekljZaZWebkT6Y7EEGChJP~Jmf74Ie6nrST5pBycNeJU5GUS3muCSjogP0rA9VlHxkXKOfj31B3ZuDJBzQ8Xxpin5QXQK~hLMi0Ht1ZZbHtjy1r4qwaDsff5ItZ0tCvShmfA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "https://s3-alpha-sig.figma.com/img/1dfe/9b02/57863367cba65e27d8925855e2388ac3?Expires=1694390400&Signature=UhNEcPUIe9gnIcg88MlltCp9HIsqi3W2pDmwNqaibS-UbkmEMiNcAqn7KjAt6RButqHWrwFL9iyvZBEAtWzFOSgyF8m4IVvYfm3~x-qNnK2f0SiL4F3Oo8Uoi9tnGnRrNviMDIx8ODQtUAepFBVaEHFVhrRQV1DbGjGTLKmcSW1Rpd1GRMlPn86BI1t90B7gjloyctEHWEPE0wkZP0eTS9SglP9PKtn4i4IOWkAA4LH527TXLNOdJskD~8~mmpcPENYfjMLwa2sgFWsdlNefAjQuKoBs~B1t5OjQQqcSMLKoiE3o7yCGQn8t-o~pL~Bt-nBceDodGkVNXTAmv96vUg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Refill Mop Head",
     "description": "Mop Head adalah refill Kain pel dengan bahan benang katun dan berdaya serap yang baik",
     "category": "janitorial",
@@ -27,7 +38,7 @@
     "warna": ["Putih", "Merah", "Biru", "Custom"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/d95194bf27de2f6c999a2208fcd89972cf6c336a",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/d95194bf27de2f6c999a2208fcd89972cf6c336a", "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/937f1babe445fc3a1453f0d58f12eb2b5868ff5b"],
     "title": "Refill Mop Head Microfiber",
     "description": "Mop Head Microfiber adalah refill Kain pel dengan bahan benang katun dan berdaya serap yang baik.",
     "category": "janitorial",
@@ -36,7 +47,7 @@
     "warna": ["Putih", "Merah", "Biru", "Custom"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c6fcb27e28eb7bf5e6b2c0b3cbfbf5fae371c9d0"],
     "title": "Refill Flat Mop Microfiber",
     "description": "",
     "category": "janitorial",
@@ -45,7 +56,7 @@
     "warna": ["Merah", "Biru", "Hitam"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/86d9ec971fd9202b32f80d74c59882eea1eb6e49",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/86d9ec971fd9202b32f80d74c59882eea1eb6e49"],
     "title": "Lobby Duster Acrylic / Cotton",
     "description": "Tersedia frame ukuran 60cm dan 80cm dengan handle pipa aluminum 150cm",
     "category": "janitorial",
@@ -54,7 +65,10 @@
     "warna": ["Putih", "Biru"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/27216bfbec3fa59d8ced0d8606024931f4ca9291",
+    "image": [
+      "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/27216bfbec3fa59d8ced0d8606024931f4ca9291",
+      "https://s3-alpha-sig.figma.com/img/01c8/f84a/c901998722bbfc02b7213dd78949b00e?Expires=1694390400&Signature=U4e6XMPLUL5vIaV1ew42LYFEzkkCWrqJ4zMMRTrHN8cvUHOSB0-py~1g~mzQECPK2dm-uUt4aas1Oct39IOYKvKae8g0g8r-cmhM2BanzJOQVGgCsKC4k6s65nru1FwOnV9Ct-k3~M15i6mjg20CyKKp3dq~Ig0PCeOkJv7eiTfueSthKZLAkFVzgOUlHXf363LFM-hEcUMiGezJ5qKM-C1-XURuL75neKaMbOso-aM9iwb4iuM-Vpj60EzviHU8uk-51nCCdi7hzVOeiHJQXHo5br~DnxVALyWtnpk1cX4NRydR-nQfOjz-~qq4dLGfzZgyWzbzr38hQ5y8OjuBIw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Refill Lobby Duster Head",
     "description": "Tersedia frame ukuran 60cm dan 80cm dengan handle pipa aluminum 150cm",
     "category": "janitorial",
@@ -63,7 +77,7 @@
     "warna": ["Putih", "Biru"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/091902fcd7303fa0664c76e79849008eb3bf4b2f",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/091902fcd7303fa0664c76e79849008eb3bf4b2f"],
     "title": "Window / Table Squeegee Head",
     "description": "ukuran 25cm",
     "category": "janitorial",
@@ -72,7 +86,7 @@
     "warna": ["Abu-abu"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/89aa19b316debb8fe94c26dac9b7e2142a41c323",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/89aa19b316debb8fe94c26dac9b7e2142a41c323"],
     "title": "Floor Squeegee Head",
     "description": "ukuran 25cm",
     "category": "janitorial",
@@ -81,7 +95,7 @@
     "warna": ["Abu-abu"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/d93c267234a94a117987bcf10308e81719673a28",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/d93c267234a94a117987bcf10308e81719673a28", "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/12a3243286f21a83310c1d0daac53c836ba036b7"],
     "title": "All Purpose Handle + Aluminum Stick",
     "description": "Stick untuk refill mop head yang Sangat Kuat & Tahan Lama dengan panjang +/- 150cm",
     "category": "janitorial",
@@ -90,7 +104,10 @@
     "warna": ["Biru", "Merah"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/113d/d1cf/b5d55206052e58def08d16ad11dd2b24?Expires=1693785600&Signature=LGYdXK8CTQXMKRrJRQh-iFKdoU6kEdWUoz23LflaAjVIWE2tvZV3DQi~yOga5S3Xe7vvZbY6sIMfKsDXQJptoRLcRr~LSN8CJ7l2-uEy3EUqGjNlZbdShuxTRNXjE3m74WhdL966v1TdGi~xxim68uOKP9b15KvYbO1XtjymbxN32sa~XmATqahSXxvco69tDNKsf9TxdSAxO091ycVyaq0NqUDES6Xthdos0VIHJJ1WolRvy9fDh7phx5wj3q18BFbXDqq2Upi04Z9QcS~P~IFti4d9A7y8XhvUerMgiZLSINtrhYaUvUn5bRtJ~UsVlVT38LUeq~ElS5Yck4G62Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/113d/d1cf/b5d55206052e58def08d16ad11dd2b24?Expires=1693785600&Signature=LGYdXK8CTQXMKRrJRQh-iFKdoU6kEdWUoz23LflaAjVIWE2tvZV3DQi~yOga5S3Xe7vvZbY6sIMfKsDXQJptoRLcRr~LSN8CJ7l2-uEy3EUqGjNlZbdShuxTRNXjE3m74WhdL966v1TdGi~xxim68uOKP9b15KvYbO1XtjymbxN32sa~XmATqahSXxvco69tDNKsf9TxdSAxO091ycVyaq0NqUDES6Xthdos0VIHJJ1WolRvy9fDh7phx5wj3q18BFbXDqq2Upi04Z9QcS~P~IFti4d9A7y8XhvUerMgiZLSINtrhYaUvUn5bRtJ~UsVlVT38LUeq~ElS5Yck4G62Q__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/8503fa12880f4591196b334ddd5c6a2f75ec043e"
+    ],
     "title": "Mop Bucket & Signage",
     "description": "",
     "category": "janitorial",
@@ -99,7 +116,9 @@
     "warna": ["Kuning"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/207c/c49e/11e8c2fcd5dbebbb7269d7008b1acdec?Expires=1693785600&Signature=bk6wsceiCSK6ZW2BEEZAPmz6O9PkYXFfrjcmvaaQ4FCZVF4lrIAkTiVQzjVipSR-Yvx0YFVvGRRDAhETJnvy1j8NPJvZ8bwNYEdlsvzsbFFCDba0ZPssUpbBbtl6M39vRGO7vpL2Rmnt-ckkovYwH3PRJVE7nO9x8GbRMJKCeGCqCepORmE3FmjDQsom02WBhD6Jnk7bDao8sQkTp7XdWO9RuTZivyGChcb~CGM2jlWTS8OQRM3AVFrvl7a7Xp5mmB80~e4Xdp5V9Ki25E13ZZHoy~PNmYuavD7EC8wdQil9U5ljB0ulNsFYgYNPSPtC36bHe7xCEiruRElCJN8XBg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/207c/c49e/11e8c2fcd5dbebbb7269d7008b1acdec?Expires=1693785600&Signature=bk6wsceiCSK6ZW2BEEZAPmz6O9PkYXFfrjcmvaaQ4FCZVF4lrIAkTiVQzjVipSR-Yvx0YFVvGRRDAhETJnvy1j8NPJvZ8bwNYEdlsvzsbFFCDba0ZPssUpbBbtl6M39vRGO7vpL2Rmnt-ckkovYwH3PRJVE7nO9x8GbRMJKCeGCqCepORmE3FmjDQsom02WBhD6Jnk7bDao8sQkTp7XdWO9RuTZivyGChcb~CGM2jlWTS8OQRM3AVFrvl7a7Xp5mmB80~e4Xdp5V9Ki25E13ZZHoy~PNmYuavD7EC8wdQil9U5ljB0ulNsFYgYNPSPtC36bHe7xCEiruRElCJN8XBg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Washing Cloth",
     "description": "",
     "category": "janitorial",
@@ -108,7 +127,10 @@
     "warna": []
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/0d2b/6ea8/ff69f2d6261811f2e3a0e809c43d1818?Expires=1693785600&Signature=k4bnNEQU4cSpoyn7AEJkn4czwbVmNW~dYcGTv-xqoUlfcS79T6ofg3bX2n28L8k5OSXOwhlR7HTbZFhuAxQU0o7WC1K5DqaFUY22jtNdrayrMLJOeeqQoYOa6oMRJegefsiBdyVvk68ktVfZLKlMJApU5VgolaJKizd~Xiy4GOGufNmhxgZg~-V2bGvNwWvZCeRLWiji7ZQEY0ziYXPqX5uZ38SEphOINchdcRbn96vbpLezjfEYXjykixIvuSeYZI3-9j1XojGEh44kY3BskSnjap9EBNj~0xZefpvd3RjyxqgyS39PSJ~S3kfkrLwST~GWIAemNlWO4q2ur3fm5g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/0d2b/6ea8/ff69f2d6261811f2e3a0e809c43d1818?Expires=1693785600&Signature=k4bnNEQU4cSpoyn7AEJkn4czwbVmNW~dYcGTv-xqoUlfcS79T6ofg3bX2n28L8k5OSXOwhlR7HTbZFhuAxQU0o7WC1K5DqaFUY22jtNdrayrMLJOeeqQoYOa6oMRJegefsiBdyVvk68ktVfZLKlMJApU5VgolaJKizd~Xiy4GOGufNmhxgZg~-V2bGvNwWvZCeRLWiji7ZQEY0ziYXPqX5uZ38SEphOINchdcRbn96vbpLezjfEYXjykixIvuSeYZI3-9j1XojGEh44kY3BskSnjap9EBNj~0xZefpvd3RjyxqgyS39PSJ~S3kfkrLwST~GWIAemNlWO4q2ur3fm5g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/e18f429d80a9045b38026309639e8cb853376f56"
+    ],
     "title": "Sponge Cloth",
     "description": "",
     "category": "janitorial",
@@ -117,7 +139,9 @@
     "warna": []
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/11b5/34a3/983d307e83d6de13a05aa1d75306389a?Expires=1693785600&Signature=knqinmBkcWgdJajJjEJkqPPjLA~8AQf3I~SG3lUld2xV3tE-ok6B8fNUA~Q9LkPM1NVfkDi4iKJqll0HklvatoV5DO75N4CojUpJDU5ZOz6fsAmVqsXDkLmR~~m4bBoAQ-q~e0qLOwskhjvD3pTB1it8boVwPVlIbD9VSqpIZFs7s7HnpAExQK4dJCGBG3yX8~m53Oh8h9hntL3YXoSFOmJGXUWkfyMC6-vlfpB7dIDLFRAqrPFNICWVQn8I5g20fkYlxp7I8uALi8lzP5uy7KxLoFCPTXC031kMd3Dfjdnysczhs7tdpE65LHpESz03Dhzea8MzCT2eob73~DJxMg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/11b5/34a3/983d307e83d6de13a05aa1d75306389a?Expires=1693785600&Signature=knqinmBkcWgdJajJjEJkqPPjLA~8AQf3I~SG3lUld2xV3tE-ok6B8fNUA~Q9LkPM1NVfkDi4iKJqll0HklvatoV5DO75N4CojUpJDU5ZOz6fsAmVqsXDkLmR~~m4bBoAQ-q~e0qLOwskhjvD3pTB1it8boVwPVlIbD9VSqpIZFs7s7HnpAExQK4dJCGBG3yX8~m53Oh8h9hntL3YXoSFOmJGXUWkfyMC6-vlfpB7dIDLFRAqrPFNICWVQn8I5g20fkYlxp7I8uALi8lzP5uy7KxLoFCPTXC031kMd3Dfjdnysczhs7tdpE65LHpESz03Dhzea8MzCT2eob73~DJxMg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Cleaning Cloth",
     "description": "",
     "category": "janitorial",
@@ -126,7 +150,9 @@
     "warna": []
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/fe0a/9e92/cc17bcc128a1fe0070625d50c28afe3f?Expires=1693785600&Signature=MBFlXNDfNK0a9O41Pfgb9LXBXGuqdAc8ZRzRaw7eQMxdwJwpesftMBBAK-AWh25eMEc608UdaOjRsGOY0LmyALw9qCQTBS0W1gr~6IUk6Krc0u-fsLKJbksaUQ6Y9Qojrf-uIg8Eps3vZfRlmb9R3oqwbMVGVvkbM~OT4OtweT0V9fvAExS66n65MSYXfFi1x~e~B--ZsWQbpeWOdA2z59iaG6V9Bxmq37GDofBHNReknlfFZimbT5jDOyy~T2eWa8481BaFAKnr3R2-02AvkE7nehNOFZZyWyuHSbZQQX612xQCHynbIAAfnLsmByNdJGuan4Gi4Anrxasjc2wRjw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/fe0a/9e92/cc17bcc128a1fe0070625d50c28afe3f?Expires=1693785600&Signature=MBFlXNDfNK0a9O41Pfgb9LXBXGuqdAc8ZRzRaw7eQMxdwJwpesftMBBAK-AWh25eMEc608UdaOjRsGOY0LmyALw9qCQTBS0W1gr~6IUk6Krc0u-fsLKJbksaUQ6Y9Qojrf-uIg8Eps3vZfRlmb9R3oqwbMVGVvkbM~OT4OtweT0V9fvAExS66n65MSYXfFi1x~e~B--ZsWQbpeWOdA2z59iaG6V9Bxmq37GDofBHNReknlfFZimbT5jDOyy~T2eWa8481BaFAKnr3R2-02AvkE7nehNOFZZyWyuHSbZQQX612xQCHynbIAAfnLsmByNdJGuan4Gi4Anrxasjc2wRjw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Window Cloth",
     "description": "",
     "category": "janitorial",
@@ -135,7 +161,7 @@
     "warna": []
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/b3dd6eddcf4c3a8fd2182f059b83d321c6a2eded",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/b3dd6eddcf4c3a8fd2182f059b83d321c6a2eded"],
     "title": "Sendok Warna & Transparant",
     "description": "",
     "category": "plastic wares",
@@ -144,7 +170,7 @@
     "warna": ["Merah", "Biru", "Ungu", "Hitam", "Transparan"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/ad617225e7d74d784092d513aa55adbdbe54e7d6",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/ad617225e7d74d784092d513aa55adbdbe54e7d6"],
     "title": "Sendok Putih Plastik",
     "description": "",
     "category": "plastic wares",
@@ -153,7 +179,9 @@
     "warna": ["Putih"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/7e2e/30ef/0cfe997a3a9f8a4473cc66a248c398fe?Expires=1693785600&Signature=ME-TulypPO1-J1ZpFiq4ivQBPoLgI8y-wSTn8QixNupsnDjg2lzWDp2VmJlWB32hGIXwx1OXvI-sZsz4uNg~0Iexbttid7mqTXVeSMPQ7keTty0Fg1OAXDrBBgsO0Udp-dX5UmTtuNlbiUvZ~y4l16iuyFnNBtT-Thb7IQvr5PtcPp05sKODTyrUxfdUVwxLkKd89icFdGpzZCZReAadnxaoHGmGeuWy36IEBBKSlNJcaWLOjUTEXkE-C0o8lbmRpp2ujeiKmEyGoeVSyvy6KNCGv0tHrnUjfu9ADfpyg-jsVcvIvvmCfE5DARMxf2QzpNEHgDfgyCZWdNHlmf1GHQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/7e2e/30ef/0cfe997a3a9f8a4473cc66a248c398fe?Expires=1693785600&Signature=ME-TulypPO1-J1ZpFiq4ivQBPoLgI8y-wSTn8QixNupsnDjg2lzWDp2VmJlWB32hGIXwx1OXvI-sZsz4uNg~0Iexbttid7mqTXVeSMPQ7keTty0Fg1OAXDrBBgsO0Udp-dX5UmTtuNlbiUvZ~y4l16iuyFnNBtT-Thb7IQvr5PtcPp05sKODTyrUxfdUVwxLkKd89icFdGpzZCZReAadnxaoHGmGeuWy36IEBBKSlNJcaWLOjUTEXkE-C0o8lbmRpp2ujeiKmEyGoeVSyvy6KNCGv0tHrnUjfu9ADfpyg-jsVcvIvvmCfE5DARMxf2QzpNEHgDfgyCZWdNHlmf1GHQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Sendok Logo",
     "description": "",
     "category": "plastic wares",
@@ -162,7 +190,9 @@
     "warna": ["Merah", "Oranye", "Kuning", "Hijau", "Biru", "Ungu", "Putih"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/1243/2d0e/0212afaa61623678171cd27d501a40b3?Expires=1693785600&Signature=TcnfzdaGAMm9sdJHSiiHxHjYzP0~VV6YJevSsX4tQE7DNhE9vO21FLOjMiGJFBTQb3PxjtfazVHTgNW~No-yLviVvSvwla1KSFqIDKZ1LCifh6C5UFd8cvutGRcDFrhG-AM-aaw-gMkPhXvg4f-fGbtB1Sa87l8qalV2UTR2MT7z1yesv6rZeA984Rgr2Ph6Q4qVwFYmtqk-ljCWifeuz7IWYbkxKkIo9zkxsKvxFUUUt4vUiHZDCkmwxMihXG61jZmtzDptKPFJPtCrrDXA5HxqaADT984VqG9yAilvsze8HOCixHu-buIj~wS1e8mUhcjiIXLAobLwi~cWJlEN0w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/1243/2d0e/0212afaa61623678171cd27d501a40b3?Expires=1693785600&Signature=TcnfzdaGAMm9sdJHSiiHxHjYzP0~VV6YJevSsX4tQE7DNhE9vO21FLOjMiGJFBTQb3PxjtfazVHTgNW~No-yLviVvSvwla1KSFqIDKZ1LCifh6C5UFd8cvutGRcDFrhG-AM-aaw-gMkPhXvg4f-fGbtB1Sa87l8qalV2UTR2MT7z1yesv6rZeA984Rgr2Ph6Q4qVwFYmtqk-ljCWifeuz7IWYbkxKkIo9zkxsKvxFUUUt4vUiHZDCkmwxMihXG61jZmtzDptKPFJPtCrrDXA5HxqaADT984VqG9yAilvsze8HOCixHu-buIj~wS1e8mUhcjiIXLAobLwi~cWJlEN0w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Garpu Plastik (Warna)",
     "description": "",
     "category": "plastic wares",
@@ -171,7 +201,7 @@
     "warna": ["Merah", "Oranye", "Kuning", "Hijau", "Biru", "Ungu", "Hitam"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/e65497f9518564a5083a8770f3d2d09279be62b2",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/e65497f9518564a5083a8770f3d2d09279be62b2"],
     "title": "Garpu Plastik Transparan & Putih",
     "description": "Warna Avail: Putih & Transparant",
     "category": "plastic wares",
@@ -180,7 +210,9 @@
     "warna": ["Putih", "Transparan"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/2b3f/aa92/375e03d16571a01181c496aa7a39fed2?Expires=1693785600&Signature=hk9LrjfNmPWeWM9Dq-1656Y80ckH07KWrbzdcel1a4iEvawRLVfKgtFbj6s2CDk03~A87gEKw-Ya8~pykmW4otj4RuE6nLBD9DJcqwTIzOmEXj24eWihGSiNRI7ez4RbyuDWJuSraG~Vr3dlBHS0Ux8mmSZCRuuqgk1Fu9TNjPj88X4TOLH0KPvDElR7SWzFUzF6UGsqIh0~P7UzuxFt3-Nq6CC1wecwrhNj9B~IovhEyo5QlDy~ynVI5K1EKc~onxCTNivmhWGAHLuJmSrMu8Wdy8ZHWy4TiBXZKmNf5wTZ3EKqJMJNyOY~w7UEItYvtiTJUXykK7Fyrpt7s05uIA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/2b3f/aa92/375e03d16571a01181c496aa7a39fed2?Expires=1693785600&Signature=hk9LrjfNmPWeWM9Dq-1656Y80ckH07KWrbzdcel1a4iEvawRLVfKgtFbj6s2CDk03~A87gEKw-Ya8~pykmW4otj4RuE6nLBD9DJcqwTIzOmEXj24eWihGSiNRI7ez4RbyuDWJuSraG~Vr3dlBHS0Ux8mmSZCRuuqgk1Fu9TNjPj88X4TOLH0KPvDElR7SWzFUzF6UGsqIh0~P7UzuxFt3-Nq6CC1wecwrhNj9B~IovhEyo5QlDy~ynVI5K1EKc~onxCTNivmhWGAHLuJmSrMu8Wdy8ZHWy4TiBXZKmNf5wTZ3EKqJMJNyOY~w7UEItYvtiTJUXykK7Fyrpt7s05uIA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Pisau Plastik",
     "description": "Warna Avail: Putih & Transparant",
     "category": "plastic wares",
@@ -189,7 +221,7 @@
     "warna": ["Putih", "Transparan"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/dd1aa9c01e2b3088667409fbbb36a239dee89d1f",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/dd1aa9c01e2b3088667409fbbb36a239dee89d1f"],
     "title": "Sendok Teh Plastik",
     "description": "Warna Avail: Putih & Transparant",
     "category": "plastic wares",
@@ -198,7 +230,10 @@
     "warna": ["Merah", "Oranye", "Kuning", "Hijau", "Biru", "Ungu", "Putih", "Bening/Transparan"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/9790/6e2a/aa2f3d855ee5876c680e0240cc680cc0?Expires=1693785600&Signature=IH~kVd~-4Yafum-DlrnyRHw71D0Vzhn927EUV8wdwoBtqpsbcyZdEF4X9zARytFZymksgBkuOl0f0-gTjce-yk39AePLsh6PG98Y5qAaHLdoxMWQXgIaKGUiK7NH80QzbqreuIKazTix1d~1C8pH~rTXxg9-YeXpsdjgCYzfucKKaazYi-m0esbWFaXFNtri3DPFZ~oJAVFS6rr73j-RFHKVyHjdudNBo9T68Z80B9k5~AdmiGSbfFKRqoGILJS78vCTFD15IXV9Ia9s10Hi-dLt3eyNV9jzidcUA79hqrNSFkyyT~N0WzQB6JJG-eTvvOv0bd6D2Pvp7-N~a18SBw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/9790/6e2a/aa2f3d855ee5876c680e0240cc680cc0?Expires=1693785600&Signature=IH~kVd~-4Yafum-DlrnyRHw71D0Vzhn927EUV8wdwoBtqpsbcyZdEF4X9zARytFZymksgBkuOl0f0-gTjce-yk39AePLsh6PG98Y5qAaHLdoxMWQXgIaKGUiK7NH80QzbqreuIKazTix1d~1C8pH~rTXxg9-YeXpsdjgCYzfucKKaazYi-m0esbWFaXFNtri3DPFZ~oJAVFS6rr73j-RFHKVyHjdudNBo9T68Z80B9k5~AdmiGSbfFKRqoGILJS78vCTFD15IXV9Ia9s10Hi-dLt3eyNV9jzidcUA79hqrNSFkyyT~N0WzQB6JJG-eTvvOv0bd6D2Pvp7-N~a18SBw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/c0c1ae9de43d41a1382976a1509c45dc4bc3e05d"
+    ],
     "title": "Gelas Plastik",
     "description": "Gelas plastik dengan 2 versi: polos dan motif",
     "category": "plastic wares",
@@ -207,7 +242,10 @@
     "warna": ["Merah", "Hijau", "Biru", "Bening/Transparan"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/418f9d05f0a82f239632a19e9ca31e776b2236b2",
+    "image": [
+      "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/418f9d05f0a82f239632a19e9ca31e776b2236b2",
+      "https://s3-alpha-sig.figma.com/img/4bec/8074/36c953869e3b4a3f8f85ed22a80e3945?Expires=1694390400&Signature=gZuMRfEPv466Ts9~WEh0fBdqdmWjbtJYhl4aBVaoOEMJkf5lOcxB1N~2PISE8iDFvM7AZBQtnPgQihzHf6o9N15EZ7gBZkjIB9-X8XtEl6ugM-Uo2NFIqXu7PY8VwuusqYZW05nm-hOZpu553s1XyWSUe0OJEoTVgcOVlrYzvodjQI-qn39M2~jggc7fy6g7eKvIbWMdWpH3VWrzEKTnB4qVOwG7G0AP7~OTFC8HHDTbpFww~EUys7ZxaJn2RUz3Fwgjlm4FOZnoquCljOgjxup4F3gyDedbBz6YMwfUZsE0jI2nNTFY~piTJG67ucUJJYktE9BUnuKQcWvW39l1sA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Sendok Sup Plastik",
     "description": "Terdapat 2 versi: Economies & Standard",
     "category": "plastic wares",
@@ -216,7 +254,9 @@
     "warna": ["Putih & Transparan"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/f18c/a351/024efeac7ba8f7792a2bb81a2fa294a3?Expires=1693785600&Signature=Z3WysRZm6CO7ul5eJjIcbB2mq8cBtu5yJ3QGHWT~o6qItaSD59G7cev7xAmbCUJgDrffqlM1dqhjQXUv9Au8zDMZA2c8ruVTY4TYJefpv~38e9l327xiulV7GiaplcHOn4EMt6vS6B4VvxZ4DtvkVe70ViF3LJax0LZexLDavlKPsKZYDE7nMCquuBNyElZq-ERGLuOnndK2iupRFTwO4y6-eP93gzumUmIFrbBWO4zmMnQwiT4q-BsI9QVcqBvohyJQDfDx-tbeI68rjn-KeWf1zCcljKrT47qq-8k4OmdeqhW9iY-y~yeLXmdzVyiOTPvsX2F0yBgSuuDEQyHctg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/f18c/a351/024efeac7ba8f7792a2bb81a2fa294a3?Expires=1693785600&Signature=Z3WysRZm6CO7ul5eJjIcbB2mq8cBtu5yJ3QGHWT~o6qItaSD59G7cev7xAmbCUJgDrffqlM1dqhjQXUv9Au8zDMZA2c8ruVTY4TYJefpv~38e9l327xiulV7GiaplcHOn4EMt6vS6B4VvxZ4DtvkVe70ViF3LJax0LZexLDavlKPsKZYDE7nMCquuBNyElZq-ERGLuOnndK2iupRFTwO4y6-eP93gzumUmIFrbBWO4zmMnQwiT4q-BsI9QVcqBvohyJQDfDx-tbeI68rjn-KeWf1zCcljKrT47qq-8k4OmdeqhW9iY-y~yeLXmdzVyiOTPvsX2F0yBgSuuDEQyHctg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Set Takeaway",
     "description": "Set terdapat dalam plastik transparan tersegel. Berisikan: sendok plastik, garpu plastik, tusuk gigi, & tissue napkin (bisa custom set)",
     "category": "plastic wares",
@@ -225,7 +265,9 @@
     "warna": ["Hitam"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/59f1/c29e/59ba51c40ccea8227d7f7508cb58d863?Expires=1693785600&Signature=NTnWDp3B~TAWd3gJ2ckcNxWEC~Ao6MzQEOn~vrnJJQB4gZYoxCNAC-CCOjCusWgqPcHIwczo4uk3lCrQvFBqK-RSPTjXxv3sn4qrNf-7897c9CIGKuETLnbU8Seb0axOKDXxRI1uDAhZWaYJ7FrryLht-TXGTEsa56fTIXIwtI7TRcxZ0Q8O8U3rZ6m39en3n-PzC1lrXTmauaYYH1mxQ6aN8qWDrHy3c4l5pzq15BuSONrucnX1XfvehAAsLfipG~l1lTk1mexXhKfTh5V0eqoteTMZ~cM7rtMPy~lZz79gugv7bGiACGRrR1wPhfn3zGiXQ5DLDnwv88nNfHalUA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/59f1/c29e/59ba51c40ccea8227d7f7508cb58d863?Expires=1693785600&Signature=NTnWDp3B~TAWd3gJ2ckcNxWEC~Ao6MzQEOn~vrnJJQB4gZYoxCNAC-CCOjCusWgqPcHIwczo4uk3lCrQvFBqK-RSPTjXxv3sn4qrNf-7897c9CIGKuETLnbU8Seb0axOKDXxRI1uDAhZWaYJ7FrryLht-TXGTEsa56fTIXIwtI7TRcxZ0Q8O8U3rZ6m39en3n-PzC1lrXTmauaYYH1mxQ6aN8qWDrHy3c4l5pzq15BuSONrucnX1XfvehAAsLfipG~l1lTk1mexXhKfTh5V0eqoteTMZ~cM7rtMPy~lZz79gugv7bGiACGRrR1wPhfn3zGiXQ5DLDnwv88nNfHalUA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Sauce/Tomato Dish",
     "description": "Tersedia polos dan emboss logo",
     "category": "plastic wares",
@@ -234,7 +276,11 @@
     "warna": ["Transparan"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/e07f/bcce/089510bf0072406fd77dd16b97817d68?Expires=1693785600&Signature=plMAZGgsL0Ma2ppUodwnvFuV9sJeErMxDFPFhXrwF~L~rPW0YZIxMc8w570PCvN-HN~2-~6SRvPy1JP2cYHDjf3kfqI9Y8rqdcEFju6aTUTQTKp3Cc8ZzXxj2JvCExcunScZrlMnGfn3lpu9x2LQ5T9WlAWjx-Lw210NO8H4D~98OAgwcXFeI5wl9vp~Q-LVQ859Tx3YddgvIqtxvJPACz2GKYN0daLjWthztlll97lPCKh3j0U7fZy~POjxd04RUlkDuD6-At~LdmKmsogEqI~G3Qi21oPp5Bvfw96BYuRgzMyI9hDHHjzt27eCQBQCK7ZoZHY6TvdK550hpJDLzA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/e07f/bcce/089510bf0072406fd77dd16b97817d68?Expires=1693785600&Signature=plMAZGgsL0Ma2ppUodwnvFuV9sJeErMxDFPFhXrwF~L~rPW0YZIxMc8w570PCvN-HN~2-~6SRvPy1JP2cYHDjf3kfqI9Y8rqdcEFju6aTUTQTKp3Cc8ZzXxj2JvCExcunScZrlMnGfn3lpu9x2LQ5T9WlAWjx-Lw210NO8H4D~98OAgwcXFeI5wl9vp~Q-LVQ859Tx3YddgvIqtxvJPACz2GKYN0daLjWthztlll97lPCKh3j0U7fZy~POjxd04RUlkDuD6-At~LdmKmsogEqI~G3Qi21oPp5Bvfw96BYuRgzMyI9hDHHjzt27eCQBQCK7ZoZHY6TvdK550hpJDLzA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/faabe1cafcdb00d4a494f2df864b0e1c4c2b7043",
+      "https://s3-alpha-sig.figma.com/img/2749/9bdc/bc2261aa78c0a99347449ae6fdc7cc83?Expires=1694390400&Signature=INZhEE6MmHp~59BXVy1K33mMHWWGQtw4Ldr9oHmOacuJO33kq88BnuTXaTmavDurIoO7O4Ckrqb2yGQh-U10~vs1Tjpvqca-tA-56Z1odlMF8QIbma~ti9mDfVoEe31WHSnZ84YmA7BsBXqdJ~sQx3O~6ygXepMezwiXvs6uThGmOeFCJTNm1K2HNWMlWrVGOwBE7xYsKhdopM-~EzaM3HXOffAe~chuKccLv7pGDvz1yhIbLJSB4d1ZXFuGmxa9acvUFvdSJ6129x5M2WHCUAmOoNLBo6HpVGkZGtvFBETQy8JVGL~OaN52l0-6uCdc9S-YfuFXwsWxfZ1eip1dwg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Kantong Belanja Plastik",
     "description": "Kantong belanja yang terbuat dari HD dan oxium,dengan kualitas yang baik dan printing yang terbaik.",
     "category": "packaging",
@@ -243,7 +289,7 @@
     "warna": ["Putih", "Berwarna"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/1b053fcc0509adf66249fc7635757b6b3908e9cf",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/1b053fcc0509adf66249fc7635757b6b3908e9cf"],
     "title": "Transparent Plastic Mask",
     "description": "Masker transparan",
     "category": "hygiene product",
@@ -252,7 +298,7 @@
     "warna": ["Putih & Transparan"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/a88926bbefe412ce188e8de6af6d67dec54c6c41",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/a88926bbefe412ce188e8de6af6d67dec54c6c41"],
     "title": "Hair Net Cap for Men & Women",
     "description": "Masker transparan",
     "category": "hygiene product",
@@ -261,7 +307,9 @@
     "warna": ["Putih"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/06ad/8c9a/55d3857da79487621a66cf6f0705b0ad?Expires=1693785600&Signature=mbsrjy4l4nVyUBOlkKyfSSyojnJyhHOve2ZH5kOF48NGUgrseT1wzcfp-MCX3axW0Ww5OREUh9v61v0Y~sT0kQZPQBAnIC1PRKgvcMzJzQHVyPbxMgQhMCjZ2PrG7H4ug0H~6Kugqis8YeATVs6nZDbBYaJiWoKaWiOK-khxZCnmx94309Cf7qV2vxxa57tt2eIOpIjc8ckpsA15orucI2-554DcRHmRT~x6fEj430O0s6-w-5y7XDQJwfttDDt5qcAW1GcTf5wgg-V6IQj5l4PtUcZso9XDxM6Z4TuAcnxZeMMK5NHAmY1~CNmYo07VUJXjcCjUqUtbLXb0Sl7H5w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/06ad/8c9a/55d3857da79487621a66cf6f0705b0ad?Expires=1693785600&Signature=mbsrjy4l4nVyUBOlkKyfSSyojnJyhHOve2ZH5kOF48NGUgrseT1wzcfp-MCX3axW0Ww5OREUh9v61v0Y~sT0kQZPQBAnIC1PRKgvcMzJzQHVyPbxMgQhMCjZ2PrG7H4ug0H~6Kugqis8YeATVs6nZDbBYaJiWoKaWiOK-khxZCnmx94309Cf7qV2vxxa57tt2eIOpIjc8ckpsA15orucI2-554DcRHmRT~x6fEj430O0s6-w-5y7XDQJwfttDDt5qcAW1GcTf5wgg-V6IQj5l4PtUcZso9XDxM6Z4TuAcnxZeMMK5NHAmY1~CNmYo07VUJXjcCjUqUtbLXb0Sl7H5w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Disposable Mob Cap",
     "description": "Masker transparan",
     "category": "hygiene product",
@@ -270,7 +318,7 @@
     "warna": ["Biru", "Hijau", "Putih", "Pink"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/bb2d943656f05e30c6731a465d672e54d5b3a4cd",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/bb2d943656f05e30c6731a465d672e54d5b3a4cd"],
     "title": "Disposable Face Mask(Ear Loop)",
     "description": "Masker sekali pakai",
     "category": "hygiene product",
@@ -279,7 +327,7 @@
     "warna": ["Biru", "Hijau", "Putih", "Pink"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/1bc63b65d78afe984a8896a736c725223628a89b",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/1bc63b65d78afe984a8896a736c725223628a89b"],
     "title": "Shoes Cover",
     "description": "Pelindung untuk sepatu",
     "category": "hygiene product",
@@ -288,7 +336,7 @@
     "warna": ["Biru", "Hijau", "Putih"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/a63afae637895485901308b1dce30540c980eafd",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/a63afae637895485901308b1dce30540c980eafd"],
     "title": "Butcher's Apron",
     "description": "Waterproof / water resistant",
     "category": "hygiene product",
@@ -297,7 +345,7 @@
     "warna": ["Biru", "Hijau", "Putih"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/eeefd524a8aab189887fd720e020aea4d54c7dcc",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/eeefd524a8aab189887fd720e020aea4d54c7dcc"],
     "title": "Vinyl Disposable Gloves",
     "description": "Ada 2 versi: Powdered / Powder Free",
     "category": "hygiene product",
@@ -306,7 +354,7 @@
     "warna": ["Biru", "Bening/Transparan", "Hitam"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/2f89e609ab41c3a7dff6aa2d3c94edf9671d8096",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/2f89e609ab41c3a7dff6aa2d3c94edf9671d8096"],
     "title": "Rubber Gloves",
     "description": "Sarung tangan yang terbuat dari karet",
     "category": "hygiene product",
@@ -315,7 +363,7 @@
     "warna": ["Biru", "Bening/Transparan", "Hitam"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/eeefd524a8aab189887fd720e020aea4d54c7dcc",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/740cc44371205e2f595b29361ce1dfa3942be377"],
     "title": "Plastic Disposable Gloves",
     "description": "Sarung tangan plastik sekali pakai",
     "category": "hygiene product",
@@ -324,7 +372,9 @@
     "warna": ["Biru", "Bening/Transparan"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/3e3b/621e/2eaa864fb5cb897bc6e6c43474a59683?Expires=1693785600&Signature=h2xZDkRvUwxqLyIscQQFZ1--wDIKhxzuTn8sDefYjkL5Cksa6gcOuviRUkH-ygzlRwUMjp006AjKlEMtaHqyffT77rIGCs-q7nsCLgINFZv49KSMg9x1r5steia-IImFmQ7eEZQWTafiY66eEjMYfIhUt03i94L3LOK~Of2n3GR~DRP1lrEqGKjaB~MVGaxtZr9bpyOeLXMQvSJV4iOEeZgfa9x-lYfcSof~SDi-j1p-Y35iHV9Zwfl6xrmC-FrwD89j8r-7HYlIVS5XmfIJyiSWpSrsN5PH18cBWWcgx9OoKAIdgleXpR5qmaKLt-t4xQ~Ob2DaUOTK9o1JjwSY8w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/3e3b/621e/2eaa864fb5cb897bc6e6c43474a59683?Expires=1693785600&Signature=h2xZDkRvUwxqLyIscQQFZ1--wDIKhxzuTn8sDefYjkL5Cksa6gcOuviRUkH-ygzlRwUMjp006AjKlEMtaHqyffT77rIGCs-q7nsCLgINFZv49KSMg9x1r5steia-IImFmQ7eEZQWTafiY66eEjMYfIhUt03i94L3LOK~Of2n3GR~DRP1lrEqGKjaB~MVGaxtZr9bpyOeLXMQvSJV4iOEeZgfa9x-lYfcSof~SDi-j1p-Y35iHV9Zwfl6xrmC-FrwD89j8r-7HYlIVS5XmfIJyiSWpSrsN5PH18cBWWcgx9OoKAIdgleXpR5qmaKLt-t4xQ~Ob2DaUOTK9o1JjwSY8w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Plastic Disposable Gloves Hanger",
     "description": "Tempat penyimpanan untuk disposable plastic gloves",
     "category": "hygiene product",
@@ -333,7 +383,9 @@
     "warna": ["Abu-abu"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/830e/d797/1562d80a02ec7061fb96fd89ce673ff7?Expires=1693785600&Signature=mCE8w3LQSzeclgGwVjvnaduvMVlkjJSJ3K1FTOF3EuT7hbuHl2uCyiVbJAGF2GFmaHvmBnfhc2YBKvPhehXcEEYhKVWbs~DEUok5NhJgoOYiTs50AV4C0PPh2iwwEFQKzwpN5jJ4pmWyOlAXflg744eCeC-vWpuhWtJQPTo8qe9FZckT7BGVgKjiwzr0eDInRoHQIzge8rwmREMUYrXXaXcpFMQp23GpHfw3c8XKdGgwX8mkF6UyQm7bwPfXrVAQb5uSMOaJhawZ8XHUVWnhOvn6NyJfW2hMQL-CPJZ9UhuBfo~48YcsY7ZXDPV1sBjHlwnD-iwpwA2oTW4HzDfpkw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/830e/d797/1562d80a02ec7061fb96fd89ce673ff7?Expires=1693785600&Signature=mCE8w3LQSzeclgGwVjvnaduvMVlkjJSJ3K1FTOF3EuT7hbuHl2uCyiVbJAGF2GFmaHvmBnfhc2YBKvPhehXcEEYhKVWbs~DEUok5NhJgoOYiTs50AV4C0PPh2iwwEFQKzwpN5jJ4pmWyOlAXflg744eCeC-vWpuhWtJQPTo8qe9FZckT7BGVgKjiwzr0eDInRoHQIzge8rwmREMUYrXXaXcpFMQp23GpHfw3c8XKdGgwX8mkF6UyQm7bwPfXrVAQb5uSMOaJhawZ8XHUVWnhOvn6NyJfW2hMQL-CPJZ9UhuBfo~48YcsY7ZXDPV1sBjHlwnD-iwpwA2oTW4HzDfpkw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Plastic Disposable Gloves",
     "description": "Sarung tangan plastik sekali pakai",
     "category": "hygiene product",
@@ -342,52 +394,73 @@
     "warna": ["Bening/Transparan"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/839b/4533/c82606498b0a0e158402c25eb56fc1ed?Expires=1693785600&Signature=RTAwswVeGt~VN-xzsx67FeycglmjFcenoHr6rlfptw-DrN5X7O7~wmqo2uuPd3zjOnGlZfTpvmGPieCtxlzZy4pdrhn0R5ncT-Avc30Lx5bcoqeH1DB-9YQABpIGOArqqBN81jnPfgaI4vWhbqB4RhsANXbd1cLk0Z~fXgMDoR~YAnnuH1luU6wAZD~OQqkFuTduSDHoETF5JQA8XiejPtejTVrb0TZgJNGusOU3QBgsI3pnrRZoqOn8Ew4pBio0Z7waqsIK8VZPzpD5kB42WUlMCSfn3WacGDeII34WEpJmgtB742hZz3kPiH55uKWcVqa9IVn6ILR6yl30aySktQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/839b/4533/c82606498b0a0e158402c25eb56fc1ed?Expires=1693785600&Signature=RTAwswVeGt~VN-xzsx67FeycglmjFcenoHr6rlfptw-DrN5X7O7~wmqo2uuPd3zjOnGlZfTpvmGPieCtxlzZy4pdrhn0R5ncT-Avc30Lx5bcoqeH1DB-9YQABpIGOArqqBN81jnPfgaI4vWhbqB4RhsANXbd1cLk0Z~fXgMDoR~YAnnuH1luU6wAZD~OQqkFuTduSDHoETF5JQA8XiejPtejTVrb0TZgJNGusOU3QBgsI3pnrRZoqOn8Ew4pBio0Z7waqsIK8VZPzpD5kB42WUlMCSfn3WacGDeII34WEpJmgtB742hZz3kPiH55uKWcVqa9IVn6ILR6yl30aySktQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/380a792a1166bcd5c7d4f634aa2bd239dda960f9",
+      "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/939ca50c83d97697ce53ebaa88a58105171400c2",
+      "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/dcf3805d2086f6783a0229075ab38524169eda53"
+    ],
     "title": "Cloth Towel",
     "description": "Lap kain untuk keperluan dapur",
-    "category": "janitorial",
+    "category": "kitchen needs",
     "minimum_order": "100pcs/ukuran/warna",
-    "material": ["Plastik"],
-    "warna": ["Bening/Transparan"]
+    "material": ["Cloth"],
+    "warna": ["Variasi"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/8415/ae53/0bb5d69800b824a15459746441756827?Expires=1693785600&Signature=SebsNWPNDE~Alahy4~dzVtkald~Ld0YydYsBvWPzVpXYwEZCUIU~Q4nRAZ9uc9QrbUIkVHAZlvH-ku~FyjYbS0-S0gXD-NkANBknt5ndbglqVlFdXe-4JitSwd-9oymx1WLtODChxMY89N-J-LVVhmPLUYjm-5JJjSTjrMk9Hq-lPkGmz7WjQVKY8egKj6DXfLRYx-E4uA-YhxgEoxvGDZVQFoYHc1hd7zSDzVkOG-R6gujvlMQtMwBxZ1yPh5-ZspwLKjt67hxnml6gKAknisWJeQrlbAexmC0ZP5eNVhOxdLoNGNYmp3XTBR3ATEOiwaNq9mudWfDAsIM1gtlLHQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/71f8f67aa25e8eef8a6f60ccbbddbb26e93719eb"],
+    "title": "Grill Cloth",
+    "description": "Lap kain untuk keperluan dapur",
+    "category": "kitchen needs",
+    "minimum_order": "100pcs/ukuran/warna",
+    "material": ["Grill"],
+    "warna": ["Krem"]
+  },
+  {
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/8415/ae53/0bb5d69800b824a15459746441756827?Expires=1693785600&Signature=SebsNWPNDE~Alahy4~dzVtkald~Ld0YydYsBvWPzVpXYwEZCUIU~Q4nRAZ9uc9QrbUIkVHAZlvH-ku~FyjYbS0-S0gXD-NkANBknt5ndbglqVlFdXe-4JitSwd-9oymx1WLtODChxMY89N-J-LVVhmPLUYjm-5JJjSTjrMk9Hq-lPkGmz7WjQVKY8egKj6DXfLRYx-E4uA-YhxgEoxvGDZVQFoYHc1hd7zSDzVkOG-R6gujvlMQtMwBxZ1yPh5-ZspwLKjt67hxnml6gKAknisWJeQrlbAexmC0ZP5eNVhOxdLoNGNYmp3XTBR3ATEOiwaNq9mudWfDAsIM1gtlLHQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Grease Proof Paper",
     "description": "Kertas anti lengket untuk penyajian makanan",
-    "category": "plastic wares",
+    "category": "kitchen needs",
     "minimum_order": "2 pack x 500lbr",
     "material": ["Kertas Plastik"],
     "warna": ["Putih"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/843c/3a24/b458221abe28731bb318b636e2563a6c?Expires=1693785600&Signature=PUng7Es~DaRQPfXxsNxUlIqYMA1EFEZv~aFCH3KD8tdz-SL32-PEaRs4SbfZ1GpARU~3VhygjaiXzZmIAvKIaw2sqiZGdNOy2DGoiVEMXC3weMf~pNLJcHLFbuIEhGYQrqn58p01brujyO9g5v4KznsbkP6MyH1vvKec5ykDnFHMQtksjPErAut6Ddke3Z7cKsbVCGZmMGXkAdpcjhrzQ~pr7Azu8ZWmucYZmdu3SnwC-nfl27xvSysEeXAdvfFXe9KZPLKQLtB2hVExpyfPpGH1SZqjkdEJn~MUiHTEk3y20PPbWR2HDWXluIfbFjtlnYMcz3t0mtP7psoGKskuvg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/843c/3a24/b458221abe28731bb318b636e2563a6c?Expires=1693785600&Signature=PUng7Es~DaRQPfXxsNxUlIqYMA1EFEZv~aFCH3KD8tdz-SL32-PEaRs4SbfZ1GpARU~3VhygjaiXzZmIAvKIaw2sqiZGdNOy2DGoiVEMXC3weMf~pNLJcHLFbuIEhGYQrqn58p01brujyO9g5v4KznsbkP6MyH1vvKec5ykDnFHMQtksjPErAut6Ddke3Z7cKsbVCGZmMGXkAdpcjhrzQ~pr7Azu8ZWmucYZmdu3SnwC-nfl27xvSysEeXAdvfFXe9KZPLKQLtB2hVExpyfPpGH1SZqjkdEJn~MUiHTEk3y20PPbWR2HDWXluIfbFjtlnYMcz3t0mtP7psoGKskuvg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/843c3a24b458221abe28731bb318b636e2563a6c"
+    ],
     "title": "Rak Telur Plastik",
     "description": "Rak penyimpanan telur dari plastik",
-    "category": "plastic wares",
+    "category": "kitchen needs",
     "minimum_order": "2 pack x 500lbr",
-    "material": ["Kertas Plastik"],
-    "warna": ["Putih"]
+    "material": ["Plastik"],
+    "warna": ["variasi"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/6a557a21db66370b57d40a351a92ae55988ea9fa",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/6a557a21db66370b57d40a351a92ae55988ea9fa"],
     "title": "Skewer/Tusuk Sate",
     "description": "Media sate dengan bahan berkualitas",
-    "category": "packaging",
+    "category": "kitchen needs",
     "minimum_order": "1000pcs/ukuran",
     "material": ["Bamboo"],
     "warna": ["Kuning"]
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/ada7563c3705a3ae86654c9d465163a382fdca8c",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/ada7563c3705a3ae86654c9d465163a382fdca8c"],
     "title": "Food Label/Label Makanan",
     "description": "Label penanda untuk makanan",
-    "category": "packaging",
+    "category": "kitchen needs",
     "minimum_order": "1000pcs/ukuran/design",
     "material": ["plastic"],
     "warna": ["Variasi"]
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/73eb/4314/45ba6857233b20e24edc4aa816af874a?Expires=1693785600&Signature=Zxzii-dwPFNGKAkSf47Gg4XfgCn7InBPdIfx9MhmPrBzxfRlMBpnVmfoicgsdpe86ZH~hAelejSbFndXKmBEsbgT6pw~TDa-lAYWIiQx0vHs20B0ET1SpmKn8jgcnQ1v35WE19znXoi37hh1RfX0n2o66BEGflzDxK5AO0w1b-Wnr3fWAIqUw6MfrugTucRgiacczk4NJbiEQ-V2f4nOu0sDUSx4czM7kFcWHeAR-~reiMJrvmnqaM3GbaWT8gmBEm-kL0rKymyi7N8m6jkfYVCqg76JPL97MICtl7Ci3RGtVouPQMBXbN4hzbS6tpQ7abYsJazIXqOahnJYU8tIoA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/73eb/4314/45ba6857233b20e24edc4aa816af874a?Expires=1693785600&Signature=Zxzii-dwPFNGKAkSf47Gg4XfgCn7InBPdIfx9MhmPrBzxfRlMBpnVmfoicgsdpe86ZH~hAelejSbFndXKmBEsbgT6pw~TDa-lAYWIiQx0vHs20B0ET1SpmKn8jgcnQ1v35WE19znXoi37hh1RfX0n2o66BEGflzDxK5AO0w1b-Wnr3fWAIqUw6MfrugTucRgiacczk4NJbiEQ-V2f4nOu0sDUSx4czM7kFcWHeAR-~reiMJrvmnqaM3GbaWT8gmBEm-kL0rKymyi7N8m6jkfYVCqg76JPL97MICtl7Ci3RGtVouPQMBXbN4hzbS6tpQ7abYsJazIXqOahnJYU8tIoA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Shillow Pembersih Piring",
     "description": "Diformulasikan untuk membersihkan kotoran berminyak, lemak dan sisa-sisa kotoran pada piring dan peralatan minum dan dapur serta anti bacterial",
     "category": "chemical",
@@ -396,7 +469,9 @@
     "warna": []
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/1537/29c3/14af4a61c6144edfda4ccaa6553a4888?Expires=1693785600&Signature=UwYAmLZ7HAWCbtPOBefEvnWvyBgNpav-4qTuKsA5~FdsWXnjtsGuixfIpYZ-FpZeryqI5HSCFQvJEqfDHPlfYV-oo6xmXs28OD-aDnFBOjSqQ9g49ltK1smYQKR9WPXtsS4-L2ET3GMtIO2cy033hIYlIG5GClYngnRFEFO52lxzdSNS~b-kamfxOpKgWoGshKjbx3MwPQ3iYK51uQOSh7migr1BWi1ulPlEHV7D6KLz2fFcmxSXD1pw5GXDYZFk6v8oTc1tQz0rZLfE~PiX9VFWp-pPCYb~Z1bDil-cJMTNUpdZnU0oRIze4eGWlyRT6KI0WirJRvli~1HIHomgbw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/1537/29c3/14af4a61c6144edfda4ccaa6553a4888?Expires=1693785600&Signature=UwYAmLZ7HAWCbtPOBefEvnWvyBgNpav-4qTuKsA5~FdsWXnjtsGuixfIpYZ-FpZeryqI5HSCFQvJEqfDHPlfYV-oo6xmXs28OD-aDnFBOjSqQ9g49ltK1smYQKR9WPXtsS4-L2ET3GMtIO2cy033hIYlIG5GClYngnRFEFO52lxzdSNS~b-kamfxOpKgWoGshKjbx3MwPQ3iYK51uQOSh7migr1BWi1ulPlEHV7D6KLz2fFcmxSXD1pw5GXDYZFk6v8oTc1tQz0rZLfE~PiX9VFWp-pPCYb~Z1bDil-cJMTNUpdZnU0oRIze4eGWlyRT6KI0WirJRvli~1HIHomgbw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Handflash Hand Sanitizer",
     "description": "Cairan Antiseptik membunuh microba dan efektif terhadap envelope virus",
     "category": "chemical",
@@ -405,7 +480,9 @@
     "warna": []
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/0b10/d152/91df9531d04b9e90331cb7b4e6a7e60d?Expires=1693785600&Signature=NFywSudDgi~g-VXM7JSrEuAYFokOhpR4kS9iEicgIsuItV~8ITqyJCWqFo5jx4NzpW0S6SYBAXZolpZVI9RA51cOz1b69pPjJDaRQ77IMqIIuztzFhoLM582t2fhf3dHDv7Gzqo3xIl7fNYZcxsxq6K9fJW63xg8lFlKYJvTn7WAq3OJP-78N4bbJEz~WGK40sJdQMmc73~yjH87quXUDYhitElCGac0i8wbDhrITBiFFYa6LXYw-gtQfZ3XTvzkM6QIiSMEpRlcwUI-onBQiQ3TLKFjyIAOzuqKV6qPvTWCrJmYP1xS7pB28gq6mCGdWzSUzdaBeCFnXYtoP~YmAA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/0b10/d152/91df9531d04b9e90331cb7b4e6a7e60d?Expires=1693785600&Signature=NFywSudDgi~g-VXM7JSrEuAYFokOhpR4kS9iEicgIsuItV~8ITqyJCWqFo5jx4NzpW0S6SYBAXZolpZVI9RA51cOz1b69pPjJDaRQ77IMqIIuztzFhoLM582t2fhf3dHDv7Gzqo3xIl7fNYZcxsxq6K9fJW63xg8lFlKYJvTn7WAq3OJP-78N4bbJEz~WGK40sJdQMmc73~yjH87quXUDYhitElCGac0i8wbDhrITBiFFYa6LXYw-gtQfZ3XTvzkM6QIiSMEpRlcwUI-onBQiQ3TLKFjyIAOzuqKV6qPvTWCrJmYP1xS7pB28gq6mCGdWzSUzdaBeCFnXYtoP~YmAA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Shillow Bowklin",
     "description": "Membersihkan kerak air, lumut, bercak pada porclean, keramik, toilet, urinal dan kaca",
     "category": "chemical",
@@ -414,7 +491,9 @@
     "warna": []
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/bf3e/bb0a/784303d0e4654e15acab1251707a7b1b?Expires=1693785600&Signature=SZLW~oHQZ5nhUyRByi1OTnBpVVCKtDb2kl5uRgqm3E-Nujn0cwJ~VqRQ6n7zNHxffkJpSym~SKXQvmy0XTi45lEcH6vS2wBTWAxAc9DlDatQIZXkwRuxjU4WLTovOK142E5uObjmdAOvSHSeFFu1OSYRy4aZ0uFeJYOycE34lapUrCEFqL8Z-lS5Vr44BQGjDcsTcSUvo~6tSgAuNVwcr13MJo7BERgClqTM-EdMJkra7vOAfwapAEzOqZpD0QMSGdKq~qFLabdBL8D88P3OgUSqo~7o1RUKmmhJ0Qwwa8h9tPh4Qu0m0LCFyFVVYWTQghi2Z2i5PWQ5gKfGScmHsQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/bf3e/bb0a/784303d0e4654e15acab1251707a7b1b?Expires=1693785600&Signature=SZLW~oHQZ5nhUyRByi1OTnBpVVCKtDb2kl5uRgqm3E-Nujn0cwJ~VqRQ6n7zNHxffkJpSym~SKXQvmy0XTi45lEcH6vS2wBTWAxAc9DlDatQIZXkwRuxjU4WLTovOK142E5uObjmdAOvSHSeFFu1OSYRy4aZ0uFeJYOycE34lapUrCEFqL8Z-lS5Vr44BQGjDcsTcSUvo~6tSgAuNVwcr13MJo7BERgClqTM-EdMJkra7vOAfwapAEzOqZpD0QMSGdKq~qFLabdBL8D88P3OgUSqo~7o1RUKmmhJ0Qwwa8h9tPh4Qu0m0LCFyFVVYWTQghi2Z2i5PWQ5gKfGScmHsQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Shillow G-Flash",
     "description": "Membersihkan kotoran yang melekat pada kaca, permukaan berbahan mengkilap lainnya",
     "category": "chemical",
@@ -423,7 +502,7 @@
     "warna": []
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/de2156362379799a7c391de6a09eb8d366de45e7",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/de2156362379799a7c391de6a09eb8d366de45e7"],
     "title": "Shillow Pembersih Lantai",
     "description": "Diformulasikan untuk membersihkan berbagai kotoran pada berbagai macam permukaan lantai, anti bacterial menjadikan lantai bersih, kesat dengan wangi menyegarkan.",
     "category": "chemical",
@@ -432,7 +511,9 @@
     "warna": []
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/5bf4/e50d/30413285db0e8272353461afa25cd223?Expires=1693785600&Signature=TRzilhtM2Ntx9Arr0isFwuMfy87FX44BH9snn7aD20qfpNM8s292Ir~550A2cFszr-ajx-v--D-zCbZTyyjqNWzQ7xp8iWNtKKoKzsvlls8Y1NySpZmFIiheSXCLiFxgbaBm-tfWxHpb~MsFbEsCNvPszMJ2N-vo0cuLbjksKgMVe5uDgKYyRpjKs85DMFOFgp5c3Nmg~t83-U1xu2qYUrI5mE-rGdC5wXh9qW2Dmcg1Jy2m~mn5ced3DacrEQWRc1ybHrm-8pCYlLcxdQ684jxCAUd3Ca0bgwvjBw6VquqSC3TFm8UsdQPdE8Jz3-FCPHzfmXaMPUdvVYPLyqYzow__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/5bf4/e50d/30413285db0e8272353461afa25cd223?Expires=1693785600&Signature=TRzilhtM2Ntx9Arr0isFwuMfy87FX44BH9snn7aD20qfpNM8s292Ir~550A2cFszr-ajx-v--D-zCbZTyyjqNWzQ7xp8iWNtKKoKzsvlls8Y1NySpZmFIiheSXCLiFxgbaBm-tfWxHpb~MsFbEsCNvPszMJ2N-vo0cuLbjksKgMVe5uDgKYyRpjKs85DMFOFgp5c3Nmg~t83-U1xu2qYUrI5mE-rGdC5wXh9qW2Dmcg1Jy2m~mn5ced3DacrEQWRc1ybHrm-8pCYlLcxdQ684jxCAUd3Ca0bgwvjBw6VquqSC3TFm8UsdQPdE8Jz3-FCPHzfmXaMPUdvVYPLyqYzow__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Shillow Food Industri, Degreser Disinfectant",
     "description": "concentrate silicate acids based, direkomendasikan untuk membersihkan peralatan yang kontak langsung dengan makanan (peralatan makan, dapur, food court dan dapur area industri makanan",
     "category": "chemical",
@@ -441,7 +522,7 @@
     "warna": []
   },
   {
-    "image": "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/86a82587cc7dfa26364f06fa8a79a8583c7c6de1",
+    "image": ["https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/86a82587cc7dfa26364f06fa8a79a8583c7c6de1"],
     "title": "Handklin Antimicrobia Handsoap",
     "description": "Sabun cair cuci tangan yang serbaguna, konsentrat, dengan keharuman yang lembut dan tahan laman, ampuh membunuh kuman dan membersihkan kotoran, lemak dan minyak hanya dengan sekali bilas, hemat air bilasan.",
     "category": "chemical",
@@ -450,11 +531,15 @@
     "warna": []
   },
   {
-    "image": "https://s3-alpha-sig.figma.com/img/a07b/f2c1/122d0b2b86f89a63ef43a5902f318498?Expires=1694390400&Signature=apxuMNeppB3T4d6e1bjjf7-4iWp4mXslldCMXiXtcvJ4QoZzaQ5WLjF4HLhNvGmQSikKMUkHFhSH~rA22MC1OnVJdnCfMI6XB8GeQYhZ~Zn8PrWHxYFSbNHnr6ftDnGn7dOKccWX8u1O0XTaw5twkCWeteaZh7WxdpauJaWLTbLoUhNl~-flV3iv4ErG7x7lrrUpuLSbDWYv4EhmmZU~NBwHQIUgm4XnoeCkjzvjmn~nNZbNbSYTH5SrP4X6eRspKyiiGioQiBlDVogCRfNo~1cMheWPFOXj8ewmA6~3F6VzFXOAdbx~lQiTFZvvKeKbCiJsyTWq-GzqAgcVHV36MQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "image": [
+      "https://s3-alpha-sig.figma.com/img/a07b/f2c1/122d0b2b86f89a63ef43a5902f318498?Expires=1694390400&Signature=apxuMNeppB3T4d6e1bjjf7-4iWp4mXslldCMXiXtcvJ4QoZzaQ5WLjF4HLhNvGmQSikKMUkHFhSH~rA22MC1OnVJdnCfMI6XB8GeQYhZ~Zn8PrWHxYFSbNHnr6ftDnGn7dOKccWX8u1O0XTaw5twkCWeteaZh7WxdpauJaWLTbLoUhNl~-flV3iv4ErG7x7lrrUpuLSbDWYv4EhmmZU~NBwHQIUgm4XnoeCkjzvjmn~nNZbNbSYTH5SrP4X6eRspKyiiGioQiBlDVogCRfNo~1cMheWPFOXj8ewmA6~3F6VzFXOAdbx~lQiTFZvvKeKbCiJsyTWq-GzqAgcVHV36MQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+      "https://www.figma.com/file/ppce04CzgVFwGBN5jDfDFL/image/6746f3ffea026e348924a57784978b5121786dfb",
+      "https://s3-alpha-sig.figma.com/img/fa1c/9468/e9f158f5d9a51b3313aeef45bfbdf557?Expires=1694390400&Signature=He-Z5iFQdIVOaaWpu~NkkWQG2W72of4TJubKxtyXshECDDnd4yCrwD6jVqsiv8WuZDV9lcyLoMBHxQ-qjrHgUMphPl0EQ3qlJ5wsOYl~drYLq6ZpdWwf86juermBEH6y81lZACjZiF9HriNn5mRryKETNsev85PtngotungprUN5ZoxPESS4aZTH9Zzlve3pgS~AXXCrLMO4uI08pKxsuiyWweu8IQgdwfY9XEVq6iPVywCEvMAd~~dMKBHwx9nsVEnnfhC2hU2B87Tgbjjx4s~CI2Nn162XnuA8smRESylJVad-vGxrcHPTPLliuLP7EBLyPowqtrGheM~GBOtuvw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    ],
     "title": "Tas Spunbound",
     "description": "tas yang dibuat dari bahan kain sintetis, ramah lingkungan dan dapat didaur ulang",
     "category": "packaging",
-    "minimum_order": "",
+    "minimum_order": "-",
     "material": ["Kain Spunbound"],
     "warna": ["custom"]
   }
