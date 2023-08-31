@@ -179,7 +179,7 @@ function Products() {
       {/* End of Search Input */}
 
       {/* Product Cards */}
-      <div className={`grid grid-cols-1 gap-5 mx-auto place-items-center mb-10 ${currentProducts.length > 0 ? "md:grid-cols-2 lg:grid-cols-3" : "md:grid-cols-1"}`}>
+      <div className={`grid grid-cols-1 gap-5 mx-auto place-items-center mb-10 ${currentProducts.length > 0 ? "md:grid-cols-2 lg:grid-cols-3" : "md:grid-cols-3"}`}>
         {loading ? (
           // Render skeleton components while loading
           Array.from({ length: productsPerPage }).map((_, index) => <Skeleton key={index} />)
@@ -191,7 +191,7 @@ function Products() {
                 setSelectedProduct(product);
                 modal();
               }}
-              className="scale-90 md:scale-100 hover:cursor-pointer max-w-[321px] min-h-[479px] aspect-auto hover:shadow-[0px_4px_56px_0px_rgba(0,_0,_0,_0.15)] p-4 rounded-2xl lg:hover:scale-105 transition ease-in-out duration-300"
+              className="scale-90 md:scale-100 hover:cursor-pointer max-w-[300px] min-h-[470px] aspect-auto hover:shadow-[0px_4px_56px_0px_rgba(0,_0,_0,_0.15)] p-4 rounded-2xl lg:hover:scale-105 transition ease-in-out duration-300"
             >
               <img src={product.image[0]} alt="image" className="h-[250px] w-full  rounded-lg object-cover object-center mx-auto mb-2" />
               <div className="text-blue-700 h-[200px]">

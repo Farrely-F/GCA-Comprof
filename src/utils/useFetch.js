@@ -3,7 +3,7 @@ import axios from "axios";
 
 function useFetch(url) {
   const [data, setData] = useState([]);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(true); // Set loading to true initially
 
   useEffect(() => {
     async function fetchData() {
