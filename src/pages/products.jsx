@@ -18,14 +18,13 @@ function shortenString(str, maxLength) {
 
 // Products Components
 function Products() {
-  const [loading, setLoading] = useState(true); // Initialize loading state here
   const [selectedCategory, setSelectedCategory] = useState("all");
   const [selectedProduct, setSelectedProduct] = useState(null);
   const [currentPage, setCurrentPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState(""); // Step 1: Add search query state
   const productsPerPage = 6;
 
-  const { data: products } = useFetch("https://api.npoint.io/19925e28ad8177857c62");
+  const { data: products, loading, setLoading } = useFetch("https://api.npoint.io/19925e28ad8177857c62");
 
   useEffect(() => {
     // Simulate loading for 2 seconds (adjust the delay as needed)
@@ -37,7 +36,7 @@ function Products() {
       // Cleanup the timeout if the component unmounts
       clearTimeout(loadingTimeout);
     };
-  }, [currentPage, selectedCategory]);
+  }, [currentPage, selectedCategory, setLoading]);
 
   const handleCategorySelect = (category) => {
     setLoading(true);
@@ -117,7 +116,7 @@ function Products() {
       <p className="mb-7 text-gray-400">These are our products:</p>
 
       {/* Category Section */}
-      <div className="flex lg:justify-center w-full overflow-x-scroll lg:overflow-x-auto gap-x-5 mb-8 py-2 px-2">
+      <div className="flex lg:justify-center w-full overflow-x-auto gap-x-5 mb-8 py-2 px-2">
         <button
           onClick={() => handleCategorySelect("all")}
           className={`text-xs min-w-[125px] py-2 px-5 outline outline-1 outline-blue-600 font-bold rounded-full ${selectedCategory === "all" ? "bg-blue-600 text-white outline-none" : "text-blue-700"}`}
@@ -128,9 +127,9 @@ function Products() {
       </div>
 
       {/* Filtering */}
-      <div className="w-[85%] flex flex-col-reverse gap-y-5 md:flex-row justify-between items-center mb-10">
+      <div className="lg:w-full gap-x-40 mx-auto max-w-[1000px] flex flex-col-reverse gap-y-5 md:flex-row justify-between items-center mb-10">
         {/* Pagination */}
-        <div className="flex justify-center items-center gap-x-5">
+        <div className="flex justify-between items-center gap-x-5">
           {currentPage > 1 ? (
             <button onClick={prevPage} className="bg-blue-600 p-2 rounded-xl">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16">
@@ -162,19 +161,25 @@ function Products() {
         {/* end of Pagination */}
 
         {/* Search Input */}
-        <form onSubmit={handleSearchSubmit} className="w-full flex justify-end items-center gap-x-1">
+        <form onSubmit={handleSearchSubmit} className="lg:w-full flex justify-center lg:justify-end items-center gap-x-2">
           <button type="submit" className="bg-blue-600 px-2 py-1 w-8 h-8  rounded-lg">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" fill="white">
               <path d="M11 2C15.968 2 20 6.032 20 11C20 15.968 15.968 20 11 20C6.032 20 2 15.968 2 11C2 6.032 6.032 2 11 2ZM11 18C14.8675 18 18 14.8675 18 11C18 7.1325 14.8675 4 11 4C7.1325 4 4 7.1325 4 11C4 14.8675 7.1325 18 11 18ZM19.4853 18.0711L22.3137 20.8995L20.8995 22.3137L18.0711 19.4853L19.4853 18.0711Z"></path>
             </svg>
           </button>
-          <input type="text" placeholder="Search Product ..." className="text-sm input input-bordered w-full max-w-xs max-h-8 focus:outline-none" value={searchQuery} onChange={handleSearchInputChange} />
+          <input
+            type="text"
+            placeholder="Search Product ..."
+            className="text-sm border border-gray-400/50 h-[100px] px-2 rounded-md w-[250px] md:w-[300px] max-w-xs max-h-8 focus:border-blue-600 focus:outline-none"
+            value={searchQuery}
+            onChange={handleSearchInputChange}
+          ></input>
         </form>
       </div>
       {/* End of Search Input */}
 
       {/* Product Cards */}
-      <div className={`grid grid-cols-1 gap-5 mx-auto place-items-center mb-10 ${currentProducts.length > 0 ? "md:grid-cols-2 lg:grid-cols-3" : "md:grid-cols-1"}`} data-aos="zoom-in" data-aos-once="false" data-aos-delay="500">
+      <div className={`grid grid-cols-1 gap-5 mx-auto place-items-center mb-10 ${currentProducts.length > 0 ? "md:grid-cols-2 lg:grid-cols-3" : "md:grid-cols-1"}`}>
         {loading ? (
           // Render skeleton components while loading
           Array.from({ length: productsPerPage }).map((_, index) => <Skeleton key={index} />)
@@ -186,7 +191,7 @@ function Products() {
                 setSelectedProduct(product);
                 modal();
               }}
-              className="hover:cursor-pointer max-w-[321px] min-h-[479px] aspect-auto hover:shadow-[0px_4px_56px_0px_rgba(0,_0,_0,_0.15)] p-4 rounded-2xl lg:hover:scale-105 transition ease-in-out duration-300"
+              className="scale-90 md:scale-100 hover:cursor-pointer max-w-[321px] min-h-[479px] aspect-auto hover:shadow-[0px_4px_56px_0px_rgba(0,_0,_0,_0.15)] p-4 rounded-2xl lg:hover:scale-105 transition ease-in-out duration-300"
             >
               <img src={product.image[0]} alt="image" className="h-[250px] w-full  rounded-lg object-cover object-center mx-auto mb-2" />
               <div className="text-blue-700 h-[200px]">
