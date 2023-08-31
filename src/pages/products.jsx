@@ -1,7 +1,8 @@
 import { useState, useEffect } from "react";
-import products from "../data/products.json";
+// import products from "../data/products.json";
 import Skeleton from "../components/Skeleton";
 import ProductCarousel from "../components/Carousel";
+import useFetch from "../utils/useFetch"; // Import the custom hook
 
 function modal() {
   window.my_modal_2.showModal();
@@ -17,12 +18,14 @@ function shortenString(str, maxLength) {
 
 // Products Components
 function Products() {
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(true); // Initialize loading state here
   const [selectedCategory, setSelectedCategory] = useState("all");
   const [selectedProduct, setSelectedProduct] = useState(null);
   const [currentPage, setCurrentPage] = useState(1);
   const [searchQuery, setSearchQuery] = useState(""); // Step 1: Add search query state
   const productsPerPage = 6;
+
+  const { data: products } = useFetch("https://api.npoint.io/19925e28ad8177857c62");
 
   useEffect(() => {
     // Simulate loading for 2 seconds (adjust the delay as needed)

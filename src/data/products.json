@@ -142,10 +142,10 @@
     "image": [
       "https://s3-alpha-sig.figma.com/img/11b5/34a3/983d307e83d6de13a05aa1d75306389a?Expires=1693785600&Signature=knqinmBkcWgdJajJjEJkqPPjLA~8AQf3I~SG3lUld2xV3tE-ok6B8fNUA~Q9LkPM1NVfkDi4iKJqll0HklvatoV5DO75N4CojUpJDU5ZOz6fsAmVqsXDkLmR~~m4bBoAQ-q~e0qLOwskhjvD3pTB1it8boVwPVlIbD9VSqpIZFs7s7HnpAExQK4dJCGBG3yX8~m53Oh8h9hntL3YXoSFOmJGXUWkfyMC6-vlfpB7dIDLFRAqrPFNICWVQn8I5g20fkYlxp7I8uALi8lzP5uy7KxLoFCPTXC031kMd3Dfjdnysczhs7tdpE65LHpESz03Dhzea8MzCT2eob73~DJxMg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
     ],
-    "title": "Cleaning Cloth",
+    "title": "Microfiber Cloth",
     "description": "",
     "category": "janitorial",
-    "minimum_order": "3pcs",
+    "minimum_order": "-",
     "material": [],
     "warna": []
   },
