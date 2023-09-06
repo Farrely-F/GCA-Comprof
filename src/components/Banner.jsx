@@ -19,8 +19,8 @@ function Banner(props) {
   );
 
   return (
-    <div className="flex justify-center items-center min-h-[50vh] lg:min-w-full lg:min-h-[312px] bg-[url('https://s3-alpha-sig.figma.com/img/8bfe/bf2d/8a8f9b62e16c1058d76bef411a4ee67f?Expires=1693785600&Signature=fj6OC7efQLW5XXMXTUTwd5cRkrST-F3cFN9-gcQZLKtpBY3y2R6TmqCOPgkZRPlSpE6EzMGXdNDeSetyYJus0M3SLX4VUzr4XzWlPCBhyWFi37V0wTH3lik~xBy4Mbnr5K~1g70UEtte4NzNE2C-1jJ5t4mQzYx2P0DysUnP-KvtZou~ZA~Cimo6n2rsS2UUu0-1UVGeYJITUhLgCVEdIjejVD~17XhtHx-37hc~G71FvgP294-uhn2o3WBlUykRoB0KZgvAinauNxi4cMnYon2KYKE4nuo3WVosYbnWywT~xuUx0hIi-qBibke1x3uu3fxDk0ZdFkzchOZZSzcvbg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4')] bg-cover">
-      <div className="w-full justify-around flex flex-col lg:flex-row px-5">
+    <div className="flex justify-center items-center min-h-[50vh] lg:min-w-full lg:min-h-[312px] bg-[url('https://aroosand.sirv.com/GCA%20Website/Banner.jpg')] bg-cover mb-5">
+      <div className="w-full justify-around flex flex-col lg:flex-row p-5">
         <h2 className="text-3xl text-white max-w-sm mb-5">{title}</h2>
         <div className="text-white max-w-3xl">
           <p className="mb-5 lg:leading-8">{description}</p>

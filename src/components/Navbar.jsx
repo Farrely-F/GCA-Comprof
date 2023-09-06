@@ -41,10 +41,7 @@ function Navbar() {
         <nav className={`w-full navbar justify-between ${scrolled ? "shadow-2xl shadow-blue-500/20 bg-white" : ""} md:px-16`}>
           <div className="">
             <a>
-              <img
-                width={75}
-                src="https://s3-alpha-sig.figma.com/img/1935/cf5e/15f5e9002f153545607db2f281b9a9b1?Expires=1693785600&Signature=axe1SYAXMKznusVeNPAewot4bPFSK0wTbb8XJGXM9orJHtqTbQNgu5YerTcBWFOUg1B6WNLN5IflaYi5wDevRbFFmgHZXSLNap0PTaooo-PcVSV1a7XuGINjrlvJUSRrTtpsC9Y1Qo4ZbyZw8ujqZFXR5Mu947rkoYCQ1CJAkosjW509TNm2Ld2qjVYkPDZjxoreplCVQq3woAeaIRDXmtzogvYG1p5IshLMDkvappzccfemxrKa3LjUUWHQBE3cJzdWlar7cfRJS2nVXGj0B-HprA2yiRmpVRV8NcuMxswBWyUNfNbX2KIu~Kf21-Lwrhah-QdFDFJ-AlG5TBcJuA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
-              />
+              <img width={75} src="https://aroosand.sirv.com/GCA%20Website/Logo%20Transparent.png" />
             </a>
           </div>
           <div className="lg:hidden">

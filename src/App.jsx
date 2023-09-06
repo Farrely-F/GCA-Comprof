@@ -6,6 +6,7 @@ import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Products from "./pages/products";
 import NotFound from "./pages/404";
+import Dashboard from "./pages/admin";
 
 function ScrollToTop() {
   const location = useLocation();

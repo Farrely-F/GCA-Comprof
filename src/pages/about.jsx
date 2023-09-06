@@ -34,11 +34,7 @@ function About() {
     <>
       <div className="flex flex-col items-center px-5 md:px-16 py-20">
         <div data-aos="zoom-in" data-aos-once="true" data-aos-delay="300">
-          <img
-            src="https://s3-alpha-sig.figma.com/img/1935/cf5e/15f5e9002f153545607db2f281b9a9b1?Expires=1693785600&Signature=axe1SYAXMKznusVeNPAewot4bPFSK0wTbb8XJGXM9orJHtqTbQNgu5YerTcBWFOUg1B6WNLN5IflaYi5wDevRbFFmgHZXSLNap0PTaooo-PcVSV1a7XuGINjrlvJUSRrTtpsC9Y1Qo4ZbyZw8ujqZFXR5Mu947rkoYCQ1CJAkosjW509TNm2Ld2qjVYkPDZjxoreplCVQq3woAeaIRDXmtzogvYG1p5IshLMDkvappzccfemxrKa3LjUUWHQBE3cJzdWlar7cfRJS2nVXGj0B-HprA2yiRmpVRV8NcuMxswBWyUNfNbX2KIu~Kf21-Lwrhah-QdFDFJ-AlG5TBcJuA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
-            alt=""
-            className="w-[381px] mb-20"
-          />
+          <img src="https://aroosand.sirv.com/GCA%20Website/Logo.jpg" alt="" className="w-[381px] mb-20" />
         </div>
         <p className="mb-48" data-aos="zoom-in" data-aos-once="true" data-aos-delay="500">
           Griya Cipta Abadi stands as your trusted partner in the realm of cleanliness and hygiene. As a dedicated company, we take pride in being your local go-to source for an extensive range of cleaning solutions and hygiene essentials.
@@ -48,21 +44,21 @@ function About() {
           that sets us apart.
         </p>
         <div className="mb-48" data-aos="zoom-in" data-aos-once="true" data-aos-delay="500">
-          <h2 className="text-8xl font-bold mb-7">Our Vision</h2>
+          <h2 className="text-7xl font-bold mb-7">Our Vision</h2>
           <p>
             At Griya Cipta Abadi, our vision is to lead the way in promoting a cleaner, safer, and healthier world. We aspire to be the foremost provider of innovative cleaning solutions, setting new standards in cleanliness and hygiene.
             Our commitment is to empower individuals, businesses, and communities to thrive in healthy environments while continually striving for excellence in every aspect of our operations.
           </p>
         </div>
         <div className="mb-48" data-aos="zoom-in" data-aos-once="true" data-aos-delay="500">
-          <h2 className="text-8xl font-bold mb-7 text-end">Our Mission</h2>
+          <h2 className="text-7xl font-bold mb-7 text-end">Our Mission</h2>
           <p className="text-end">
             We deliver top-notch cleaning products and hygiene essentials that cater to the diverse needs of our valued customers. We are dedicated to offering a comprehensive range of high-quality, locally sourced products that foster
             cleanliness and convenience. We aim to build lasting relationships with our clients by providing exceptional service, expert guidance, and responsible solutions.
           </p>
         </div>
         <div className="mb-48" data-aos="zoom-in" data-aos-once="true" data-aos-delay="500">
-          <h2 className="text-8xl font-bold mb-7">Why Us?</h2>
+          <h2 className="text-7xl font-bold mb-7">Why Us?</h2>
           <ol>
             <li>
               <strong>1. Wide Product Range:</strong> We offer an extensive selection of cleaning products and hygiene essentials, ensuring that you find everything you need under one roof.
@@ -81,7 +77,7 @@ function About() {
           title="Start Your Journey With Us Now!"
           arrow="hidden"
           cta="Contact Us!"
-          variant="bg-[#E0FF22] text-black text-xl px-10 py-5 rounded-2xl"
+          variant="bg-[#E0FF22] text-black text-xl px-10 py-3 lg:py-5 rounded-2xl"
           url="https://wa.me/08111927302?text=Hi%20I'm%20interested%20with%20your%20products!"
         />
       </div>

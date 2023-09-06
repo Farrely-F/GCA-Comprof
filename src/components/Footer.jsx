@@ -6,10 +6,7 @@ function Footer() {
       <footer className="footer items-baseline p-10 bg-gray-200 text-black">
         <div>
           <span className="footer-title">
-            <img
-              width={75}
-              src="https://s3-alpha-sig.figma.com/img/1bc1/3af4/6343a7d3b13d0650a7dd7c438355ef79?Expires=1693785600&Signature=lBxfg2wqu-irlWN5Zx0Ek40ksAehgSIIhJtK58I-arnfVdcsY5cOY6cdJP7ggq-jgE1K-V0sxMHVQvgiQIxnZj1M3mn0AZyGXa6hSKlB2N0GVC1ybbY69RI-c37I~wKbZLzrnzDd0LyvMpCgttJuwHR0jL13QF3XHspCcyn~1PjVJA2rZHJfMf6XhkvpUHAzODJu0OYzGQeLYQicRz7mJjMWgom-MgQuanxkQUHakhP~3adX5ET6UHUCY314wjJDwcpEuVV7K3iLJF9mLzHKWO3aBA9jpfxYQTID0GkFPGSrXP2kDS7ew43ogFud5GDKZ8Cf6lCzdYr7LZYv5J5-rQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
-            />
+            <img width={75} src="https://aroosand.sirv.com/GCA%20Website/Logo%20Transparent.png" />
           </span>
           <a className="link link-hover">Bekasi, Indonesia</a>
           <a className="link link-hover">Your satisfaction is our Priority</a>
